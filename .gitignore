@@ -1,0 +1,6 @@
+node_modules
+_site
+.idea
+.DS_Store
+Gemfile.lock
+package-lock.json
