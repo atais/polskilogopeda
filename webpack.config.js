@@ -35,6 +35,17 @@ module.exports = function make() {
                     { loader: "css-loader", options: { sourceMap: isDev }},
                     { loader: "sass-loader", options: { sourceMap: isDev }}
                 ]
+            },
+            {
+                test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+                use: [
+                  {
+                    loader: 'file-loader',
+                    options: {
+                      name: '[name].[ext]'
+                    }
+                  }
+                ]
             }
         ]
     };

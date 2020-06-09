@@ -1,0 +1,58 @@
+#contact {
+
+  @include media-breakpoint-down(xs) {
+     padding: 0;
+  }
+
+//   &.bg-red {
+//     @include media-breakpoint-up(lg) {
+//         background: $red;
+//         background: linear-gradient(0deg, $red 50%, $gray 50%);
+//     }
+// }
+
+  [class^="col-"] {
+     padding: $spacer*3 $spacer;
+
+     @include media-breakpoint-up(md) {
+        padding-left: $spacer*3;
+        padding-right: $spacer*3;
+     }
+  }
+
+  .order-lg-1 {
+    background: lighten($gray, 9%);
+  }
+  .order-lg-2 {
+    background: lighten($gray, 6%);
+  }
+  .order-lg-3 {
+    background: lighten($gray, 3%);
+  }
+
+  ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+    li {
+      @extend .mb-1;
+    }
+    a {
+      text-decoration: underline;
+    }
+  }
+
+  .submit {
+    border-radius: 5px;
+    border-color: $body-color;
+    background-color: transparent;
+
+    &:hover, &:focus {
+      color: lighten($primary, 9%);
+      border-color: $red;
+      background: $white;
+    }
+  }
+
+}

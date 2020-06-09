@@ -1,3 +1,6 @@
+// Import fonts
+@import "~@openfonts/rubik_all/index.css";
+
 // Import custom variables and override default Bootstrap variables
 @import "./variables.scss";
 
@@ -12,6 +15,11 @@
 @import "./navbar.scss";
 @import "./masthead.scss";
 @import "./portfolio.scss";
+@import "./services.scss";
+@import "./card.scss";
+@import "./map.scss";
+@import "./contact.scss";
+@import "./footer.scss";
 
 // Import custom utilities
 @import "./utilities.scss";

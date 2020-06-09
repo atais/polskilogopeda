@@ -1,0 +1,94 @@
+<div class="page-section {{ include.background }}" id="contact">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-4 order-lg-3">
+                <div class="head text-center">
+                    <i class="far fa-2x icon fa-envelope-open"> </i>
+                    <h2 class="mt-1">Zostaw wiadomość</h2>
+                </div>
+                <hr class="divider mb-4">
+
+                <div class="content contact-form">
+                    <form role="form" id="form1" action="https://formspree.io/grazynawalasek@gmail.com" method="POST">
+                        <input type="hidden" name="_language" value="pl"/>
+                        <input type="text" name="_gotcha" style="display:none"/>
+                        <div class="form-group">
+                            <label class="iconic user">Imię <span class="required">*</span></label>
+                            <input type="text" class="form-control" name="Imie" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="iconic mail-alt">Email</label>
+                            <input type="email" class="form-control" name="Email">
+                        </div>
+                        <div class="form-group">
+                            <label class="iconic quote-alt">Telefon kontaktowy <span class="required">*</span></label>
+                            <input type="text" class="form-control" name="Telefon" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="iconic comment">Wiadomość</label>
+                            <textarea name="Wiadomosc" class="form-control" rows="3"></textarea>
+                        </div>
+                        <div class="text-right">
+                            <button type="submit" class="submit btn btn-default" form="form1" value="Submit">
+                                <i class="fa fa-paper-plane" aria-hidden="true"></i> Wyślij
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="col-lg-4 order-lg-2">
+                <div class="head text-center">
+                    <i class="far fa-2x icon fa-address-card"> </i>
+                    <h2 class="mt-1">Kontakt</h2>
+                </div>
+                <hr class="divider mb-4">
+                <div class="content">
+                    <p>Grażyna Walasek</p>
+                    <ul>
+                        <li><span>
+                            <i class="fa fa-phone"> </i>&nbsp;
+                            <a href="tel:+48502271289">+48 502 271 289</a>
+                        </span></li>
+                        <li><span>
+                            <i class="fa fa-at"> </i>&nbsp;
+                            <a href="mailto:grazynawalasek@gmail.com">grazynawalasek@gmail.com</a>
+                        </span></li>
+                    </ul>
+                    <hr class="divider my-5">
+                    <p>
+                        Polski Logopeda <br>
+                        Michał Siatkowski
+                    </p>
+                    <ul>
+                        <li><span>
+                            <i class="fa fa-phone"> </i>&nbsp;
+                            <a href="tel:+48502271193">+48 502 271 193</a>
+                        </span></li>
+                        <li><span>
+                            <i class="fa fa-at"> </i>&nbsp;
+                            <a href="mailto:siatkowskimichal@gmail.com">siatkowskimichal@gmail.com</a>
+                        </span></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-4 order-lg-1">
+                <div class="head text-center">
+                    <i class="fa fa-2x icon fa-map-marker-alt"> </i>
+                    <h2 class="mt-1">Lokalizacja</h2>
+                </div>
+                <hr class="divider mb-4">
+                <div class="content">
+                    <p>
+                        Tramwajowa 21 m.10<br>
+                        90-132 Łódź<br>
+                        Polska
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
