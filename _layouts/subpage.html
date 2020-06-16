@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+{% assign act = page.dir | remove: "/" %}
+{% include nav-sub.html active=act  %}
+
+<div class="subpage-title">
+    <div class="container py-3">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="my-3">{{ page.title }}</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="page-section subpage-section">
+    <div class="container">
+        <div class="row">
+            {% include sidemenu-{{act}}.html %}
+
+            <div class="col-md-8 col-sm-12 order-md-1 order-0">
+                <div class="intro-pic">
+                    <img src="/img/hero/{{ page.hero }}"
+                         alt="Osoba przedstawiająca ofertę {{ page.title }}"
+                         style="object-position: {{ page.hero-position }};"
+                    />
+                </div>
+
+                {{ content }}
+                <br class="d-block d-md-none my-2">
+            </div>
+
+        </div>
+    </div>
+</div>
+
+{% include contact.html background="bg-light" %}
+
+{% include footer.html %}
+<script>
+    var url = window.location;
+    $('nav a').filter(function() {
+        return this.href == url;
+    }).addClass('active');
+</script>
+</body>
+</html>

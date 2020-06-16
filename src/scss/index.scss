@@ -12,7 +12,8 @@
 
 // Import custom styles
 @import "./global.scss";
-@import "./navbar.scss";
+@import "./nav-main.scss";
+@import "./nav-sub.scss";
 @import "./masthead.scss";
 @import "./portfolio.scss";
 @import "./services.scss";
@@ -20,6 +21,7 @@
 @import "./map.scss";
 @import "./contact.scss";
 @import "./footer.scss";
+@import "./subpage.scss";
 
 // Import custom utilities
 @import "./utilities.scss";

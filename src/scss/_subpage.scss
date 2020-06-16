@@ -1,0 +1,36 @@
+.subpage-title {
+    margin-top: 72px;
+
+    background-color: $gray;
+}
+
+.subpage-section {
+
+    hr.divider {
+        max-width: 100%;
+    }
+
+    .intro-pic{
+        position: relative;
+
+        .ratio-container {
+            position: relative;
+        }
+
+        img {
+            width: 100%;
+            height: 20hw;
+            max-height: 450px;
+            object-fit: cover;
+        }
+    }
+
+    nav {
+
+        .active {
+            background-color: $primary;
+            color: $white;
+
+        }
+    }
+}

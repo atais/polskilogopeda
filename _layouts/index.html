@@ -5,7 +5,7 @@
 
 <body id="page-top">
 
-{% include nav.html %}
+{% include nav-main.html %}
 
 <header class="masthead">
     <div class="container h-100">
@@ -28,28 +28,31 @@
     </div>
 </header>
 
-<section class="page-section bg-light" id="about">
+<section class="page-section bg-light" id="services">
     <div class="container">
         <h1 class="text-center mt-0">
             Dostępne zajęcia logopedyczne
         </h1>
         <hr class="divider my-4">
         <div class="row post-list">
-            {% include card.html
+            {% include offer.html
+            url="/zajecia/logopeda-lodz.html"
             title="Logopeda Łódź - Gabinet"
             image="stock-232333216.jpg"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
             %}
 
 
-            {% include card.html
+            {% include offer.html
+            url="/zajecia/logopeda-online.html"
             title="Logopeda Online"
             image="shutterstock_275489732.jpg"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
             %}
 
 
-            {% include card.html
+            {% include offer.html
+            url="/zajecia/logopeda-z-dojazdem.html"
             title="Logopeda z dojazdem"
             image="stock-631370564.jpg"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
@@ -58,54 +61,54 @@
     </div>
 </section>
 
-<section class="page-section" id="services">
+<section class="page-section" id="offer">
     <div class="container">
         <h1 class="text-center mt-0">Opis oferty</h1>
         <hr class="divider my-4">
         <div class="row">
-            {% include offer.html
+            {% include service.html
             title="Dla dorosłych"
             icon="fa-user"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
             %}
 
-            {% include offer.html
+            {% include service.html
             title="Dla młodzieży"
             icon="fa-comments"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
             %}
 
-            {% include offer.html
+            {% include service.html
             title="Dla dzieci"
             icon="fa-child"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
             %}
 
-            {% include offer.html
+            {% include service.html
             title="Logopedia medialna"
             icon="fa-tv"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
             %}
 
-            {% include offer.html
+            {% include service.html
             title="Rozumienie poezji i prozy"
-            icon="fa-globe"
+            icon="fa-feather-alt"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
             %}
 
-            {% include offer.html
+            {% include service.html
             title="Przygotowanie do szkoły aktorskiej"
-            icon="fa-globe"
+            icon="fa-graduation-cap"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
             %}
 
-            {% include offer.html
+            {% include service.html
             title="Zajęcia dla polskich dzieci mieszkających za granicą"
-            icon="fa-globe"
+            icon="fa-plane"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
             %}
 
-            {% include offer.html
+            {% include service.html
             title="Zajęcia grupowe"
             icon="fa-users"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
@@ -113,8 +116,6 @@
         </div>
     </div>
 </section>
-
-<!--{% include portfolio.html %}-->
 
 {% include contact.html background="bg-light" %}
 

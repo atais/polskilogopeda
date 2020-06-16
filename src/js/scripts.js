@@ -34,10 +34,13 @@
       $("#mainNav").removeClass("navbar-scrolled");
     }
   };
-  // Collapse now if page is not at top
-  navbarCollapse();
-  // Collapse the navbar when page is scrolled
-  $(window).scroll(navbarCollapse);
+
+  if($("#mainNav").length != 0) {
+    // Collapse now if page is not at top
+    navbarCollapse();
+    // Collapse the navbar when page is scrolled
+    $(window).scroll(navbarCollapse);
+  }
 
   // Magnific popup calls
   $('#portfolio').each(function(el) {
