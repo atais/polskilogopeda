@@ -1,6 +1,6 @@
 ---
 layout: subpage
-hero: "stock-1097610281.jpg"
+hero: "stock-1081029959.jpg"
 title: "Logopeda zajęcia grupowe | LogosArt Łódź"
 hero-position: "100% 10%"
 ---

@@ -26,11 +26,15 @@
     }
 
     nav {
-
-        .active {
-            background-color: $primary;
-            color: $white;
-
+        .nav-link{
+            &:hover, &:active {
+                color: $primary;
+                @include gradient-bg($dropdown-link-hover-bg);
+            }
+            &.active {
+                background-color: $primary;
+                color: $white;
+            }
         }
     }
 }

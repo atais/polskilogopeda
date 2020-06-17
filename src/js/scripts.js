@@ -15,27 +15,22 @@
     }
   });
 
-  // Closes responsive menu when a scroll trigger link is clicked
-  $('.js-scroll-trigger').click(function() {
-    $('.navbar-collapse').collapse('hide');
-  });
-
   // Activate scrollspy to add active class to navbar items on scroll
   $('body').scrollspy({
-    target: '#mainNav',
+    target: '#appNavbar',
     offset: 75
   });
 
   // Collapse Navbar
   var navbarCollapse = function() {
-    if ($("#mainNav").offset().top > 100) {
-      $("#mainNav").addClass("navbar-scrolled");
+    if ($("#appNavbar").offset().top > 100) {
+      $("#appNavbar").addClass("navbar-scrolled");
     } else {
-      $("#mainNav").removeClass("navbar-scrolled");
+      $("#appNavbar").removeClass("navbar-scrolled");
     }
   };
 
-  if($("#mainNav").length != 0) {
+  if($(".mainNav").length != 0) {
     // Collapse now if page is not at top
     navbarCollapse();
     // Collapse the navbar when page is scrolled
@@ -77,7 +72,7 @@
         draggable: false,
       })
       .infowindow({
-        content: "<img src=" + img + ' class="map-img" />',
+        content: "<div class='navbar-brand maps'><img src=" + img + ' class="mr-2 d-inline-block align-top" />Polski Logopeda</div>',
       })
       .then(function (infowindow) {
         var map = this.get(0);

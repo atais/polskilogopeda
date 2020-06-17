@@ -5,7 +5,28 @@
     height: 500px;
   }
 
-  .map-img {
-    max-width: 200px;
+  .maps {
+    img {
+        max-width: 30px;
+    }
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1.5rem;
+    font-weight: 500;
+    font-family: $font-family-sans-serif;
+
+    @include media-breakpoint-up(md) {
+        font-size: 2rem;
+        img {
+            max-width: 40px;
+        }
+    }
+
+    @include media-breakpoint-up(xl) {
+        font-size: 3rem;
+        img {
+            max-width: 50px;
+        }
+    }
   }
 }

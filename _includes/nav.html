@@ -1,8 +1,12 @@
 <!-- Start Nav -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 navbar-scrolled" id="subNav">
+<nav class="navbar navbar-expand-lg navbar-light fixed-top py-3
+            {{ include.nav-name }}
+            {%if include.nav-name != 'mainNav' %}navbar-scrolled{% endif %}"
+     id="appNavbar">
 
     <div class="container">
         <a class="navbar-brand" href="/">
+            <img src="/img/logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
             Polski Logopeda
         </a>
 
@@ -18,32 +22,37 @@
 
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto my-2 my-lg-0">
+
+                <li class="nav-item">
+                    <a class="nav-link " href="/blog">Blog</a>
+                </li>
+
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle {%if include.active == 'zajecia' %}active{% endif %}" data-target="#" id="servicesDropdown"
                        role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Zajęcia
                     </a>
                     <div class="dropdown-menu" aria-labelledby="servicesDropdown">
-                        <a class="dropdown-item" href="/zajecia/logopeda-lodz.html">W gabinecie</a>
-                        <a class="dropdown-item" href="/zajecia/logopeda-online.html">Online</a>
-                        <a class="dropdown-item" href="/zajecia/logopeda-z-dojazdem.html">Z dojazdem</a>
+                        <a class="dropdown-item" href="/zajecia/logopeda-lodz">W gabinecie</a>
+                        <a class="dropdown-item" href="/zajecia/logopeda-online">Online</a>
+                        <a class="dropdown-item" href="/zajecia/logopeda-z-dojazdem">Z dojazdem</a>
                     </div>
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle {%if include.active == 'oferta' %}active{% endif %}" data-target="#offer" id="offerDropdown"
+                    <a class="nav-link dropdown-toggle {%if include.active == 'oferta' %}active{% endif %}" data-target="#" id="offerDropdown"
                        role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Oferta
                     </a>
                     <div class="dropdown-menu" aria-labelledby="offerDropdown">
-                        <a class="dropdown-item" href="/oferta/logopeda-dla-doroslych.html">Dla dorosłych</a>
-                        <a class="dropdown-item" href="/oferta/logopeda-dla-mlodziezy.html">Dla młodzieży</a>
-                        <a class="dropdown-item" href="/oferta/logopeda-dla-dzieci.html">Dla dzieci</a>
-                        <a class="dropdown-item" href="/oferta/logopedia-medialna.html">Logopedia medialna</a>
-                        <a class="dropdown-item" href="/oferta/rozumienie-poezji-i-prozy.html">Rozumienie poezji i prozy</a>
-                        <a class="dropdown-item" href="/oferta/przygotowanie-do-szkoly-aktorskiej.html">Przygotowanie do szkoły aktorskiej</a>
-                        <a class="dropdown-item" href="/oferta/zajęcia-dla-polskich-dzieci-mieszkajacych-za-granica.html">Dla dzieci mieszkających za granicą</a>
-                        <a class="dropdown-item" href="/oferta/logopeda-zajecia-grupowe.html">Zajęcia grupowe</a>
+                        <a class="dropdown-item" href="/oferta/logopeda-dla-doroslych">Dla dorosłych</a>
+                        <a class="dropdown-item" href="/oferta/logopeda-dla-mlodziezy">Dla młodzieży</a>
+                        <a class="dropdown-item" href="/oferta/logopeda-dla-dzieci">Dla dzieci</a>
+                        <a class="dropdown-item" href="/oferta/logopedia-medialna">Logopedia medialna</a>
+                        <a class="dropdown-item" href="/oferta/rozumienie-poezji-i-prozy">Rozumienie poezji i prozy</a>
+                        <a class="dropdown-item" href="/oferta/przygotowanie-do-szkoly-aktorskiej">Przygotowanie do szkoły aktorskiej</a>
+                        <a class="dropdown-item" href="/oferta/zajęcia-dla-polskich-dzieci-mieszkajacych-za-granica">Dla dzieci mieszkających za granicą</a>
+                        <a class="dropdown-item" href="/oferta/logopeda-zajecia-grupowe">Zajęcia grupowe</a>
                     </div>
                 </li>
 

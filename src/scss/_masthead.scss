@@ -16,7 +16,8 @@ header.masthead {
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
-    h1 {
+
+    .title-size {
         font-size: 3rem;
     }
 
@@ -28,12 +29,14 @@ header.masthead {
         p {
             font-size: 1.15rem;
         }
-        h1 {
+
+        .title-size {
             font-size: 4rem;
         }
+
     }
     @include media-breakpoint-up(xl) {
-        h1 {
+        .title-size {
             font-size: 5rem;
         }
     }

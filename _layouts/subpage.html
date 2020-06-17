@@ -5,7 +5,7 @@
 
 <body id="page-top">
 {% assign act = page.dir | remove: "/" %}
-{% include nav-sub.html active=act  %}
+{% include nav.html active=act nav-name='subNav' %}
 
 <div class="subpage-title">
     <div class="container py-3">
@@ -22,7 +22,7 @@
         <div class="row">
             {% include sidemenu-{{act}}.html %}
 
-            <div class="col-md-8 col-sm-12 order-md-1 order-0">
+            <div class="col-md-8 col-sm-12">
                 <div class="intro-pic">
                     <img src="/img/hero/{{ page.hero }}"
                          alt="Osoba przedstawiająca ofertę {{ page.title }}"
@@ -31,7 +31,6 @@
                 </div>
 
                 {{ content }}
-                <br class="d-block d-md-none my-2">
             </div>
 
         </div>

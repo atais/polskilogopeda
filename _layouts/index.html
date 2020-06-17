@@ -5,13 +5,13 @@
 
 <body id="page-top">
 
-{% include nav-main.html %}
+{% include nav.html nav-name="mainNav" %}
 
 <header class="masthead">
     <div class="container h-100">
         <div class="row h-100 align-items-center justify-content-center text-center">
-            <div class="col-lg-10 align-self-end">
-                <h1 class="text-uppercase text-white font-weight-normal">Polski Logopeda</h1>
+            <div class="col-lg-10 align-self-end title-div">
+                <h1 class="title-size text-uppercase text-primary">Polski Logopeda</h1>
                 <hr class="divider my-4">
             </div>
             <div class="col-lg-8 align-self-baseline">
@@ -20,7 +20,7 @@
                     Just download a theme and start customizing, no strings attached!
                 </p>
                 <a class="btn btn-primary btn-xl js-scroll-trigger"
-                   href="#about">
+                   href="#services">
                     Dowiedz się więcej
                 </a>
             </div>
@@ -36,7 +36,7 @@
         <hr class="divider my-4">
         <div class="row post-list">
             {% include offer.html
-            url="/zajecia/logopeda-lodz.html"
+            url="/zajecia/logopeda-lodz"
             title="Logopeda Łódź - Gabinet"
             image="stock-232333216.jpg"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
@@ -44,7 +44,7 @@
 
 
             {% include offer.html
-            url="/zajecia/logopeda-online.html"
+            url="/zajecia/logopeda-online"
             title="Logopeda Online"
             image="shutterstock_275489732.jpg"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
@@ -52,7 +52,7 @@
 
 
             {% include offer.html
-            url="/zajecia/logopeda-z-dojazdem.html"
+            url="/zajecia/logopeda-z-dojazdem"
             title="Logopeda z dojazdem"
             image="stock-631370564.jpg"
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce facilisis mi at elit dictum vestibulum. In posuere mi nec efficitur ultricies. Sed tincidunt, felis vel pharetra tincidunt, quam ex gravida lorem, sed congue odio libero vitae ex."
