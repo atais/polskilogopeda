@@ -5,10 +5,6 @@ hero-position: "100% 30%"
 title: "Logopeda z Dojazdem"
 ---
 
-# Logopeda z Dojazdem
-
-<hr class="divider my-2">
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Nulla placerat lorem ex, vel dignissim mi ullamcorper eu. Integer tempus ante sed leo euismod, 
 vel dictum dolor consectetur. Orci varius natoque penatibus et magnis dis parturient montes, 

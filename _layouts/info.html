@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+{% assign act = page.dir | remove: "/" %}
+{% include nav.html active=act nav-name='subNav' %}
+
+
+<div class="page-section subpage-section subpage-margin bg-light" id="{{ act }}">
+    <div class="container">
+        {{ content }}
+    </div>
+</div>
+
+{% include contact.html background="" %}
+
+{% include map.html %}
+
+{% include footer.html %}
+<script>
+    var url = window.location;
+    $('nav a').filter(function() {
+        return this.href == url;
+    }).addClass('active');
+</script>
+</body>
+</html>

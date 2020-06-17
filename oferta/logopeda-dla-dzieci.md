@@ -2,12 +2,8 @@
 layout: subpage
 hero: "shutterstock_1241157361.jpg"
 hero-position: "100% 10%"
-title: "Logopeda dla dzieci | LogosArt Łódź"
+title: "Logopeda dla dzieci"
 ---
-
-# Logopeda dla dzieci
-
-<hr>
 
 Przeprowadzamy diagnozę logopedyczną, w efekcie której możliwe jest ustalenie poziomu rozwoju mowy dziecka. 
 Badanie obejmuje takie umiejętności jak:

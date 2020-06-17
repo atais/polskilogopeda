@@ -1,13 +1,9 @@
 ---
 layout: subpage
-hero: "stock-232333216.jpg"
+hero: "stock-1617508468.jpg"
 hero-position: "100% 40%"
-title: "Logopeda Łódź"
+title: "Logopeda Łódź - Gabinet"
 ---
-
-# Logopeda Lodz
-
-<hr class="divider my-2">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Nulla placerat lorem ex, vel dignissim mi ullamcorper eu. Integer tempus ante sed leo euismod, 

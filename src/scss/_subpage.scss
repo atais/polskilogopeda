@@ -1,7 +1,10 @@
-.subpage-title {
+.subpage-margin {
     margin-top: 72px;
+}
 
-    background-color: $gray;
+.subpage-flag {
+    padding-bottom: 72px;
+    background-color: $primary;
 }
 
 .subpage-section {
@@ -26,7 +29,9 @@
     }
 
     nav {
-        .nav-link{
+        a.nav-link{
+            color: $body-color;
+
             &:hover, &:active {
                 color: $primary;
                 @include gradient-bg($dropdown-link-hover-bg);
@@ -37,4 +42,8 @@
             }
         }
     }
+
+    .sidemenu {
+    }
+
 }

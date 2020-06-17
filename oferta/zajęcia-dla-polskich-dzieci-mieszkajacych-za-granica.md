@@ -1,7 +1,7 @@
 ---
 layout: subpage
 hero: "stock-1707844078.jpg"
-title: "Logopeda zajęcia grupowe | LogosArt Łódź"
+title: "Dla dzieci mieszkających za granicą"
 hero-position: "100% 10%"
 ---
 

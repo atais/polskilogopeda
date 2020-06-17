@@ -1,7 +1,7 @@
 ---
 layout: subpage
 hero: "stock-508913206.jpg"
-title: "Logopeda zajęcia grupowe | LogosArt Łódź"
+title: "Rozumienie poezji i prozy"
 hero-position: "100% 10%"
 ---
 

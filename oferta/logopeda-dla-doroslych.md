@@ -2,12 +2,8 @@
 layout: subpage
 hero: "dreamstime_75973715.jpg"
 hero-position: "100% 20%"
-title: "Logopeda dla dorosłych | LogosArt Łódź"
+title: "Zajęcia logopedyczne dla dorosłych"
 ---
-
-# Zajęcia logopedyczne dla dorosłych
-
-<hr>
 
 Trudności z poprawną artykulacją u tej grupy wiekowej  mogą być przyczyną problemów w kontaktach interpersonalnych, 
 powodować powstawanie kompleksów i niską samoocenę. Zajęcia terapeutyczne dla dorosłych prowadzone 

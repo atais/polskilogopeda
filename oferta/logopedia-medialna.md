@@ -2,12 +2,8 @@
 layout: subpage
 hero: "shutterstock_1188728074.jpg"
 hero-position: "100% 90%"
-title: "Logopedia medialna | LogosArt Łódź"
+title: "Logopedia medialna"
 ---
-
-# Logopedia medialna
-
-<hr>
 
 To dział logopedii zajmujący się szkoleniem w zakresie poprawnej wymowy i emisji głosu. 
 Jest składową wiedzy z wielu dziedzin z zakresu kultury żywego słowa, fonetyki, emisji głosu, 

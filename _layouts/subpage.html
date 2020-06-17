@@ -7,23 +7,22 @@
 {% assign act = page.dir | remove: "/" %}
 {% include nav.html active=act nav-name='subNav' %}
 
-<div class="subpage-title">
-    <div class="container py-3">
-        <div class="row">
-            <div class="col-md-12">
-                <h1 class="my-3">{{ page.title }}</h1>
-            </div>
-        </div>
-    </div>
-</div>
+<!--<div class="subpage-flag subpage-margin">-->
+<!--</div>-->
 
-<div class="page-section subpage-section">
+<div class="page-section subpage-section subpage-margin bg-light" id="{{ act }}">
+
     <div class="container">
         <div class="row">
-            {% include sidemenu-{{act}}.html %}
+            <div class="col-lg-4 d-none d-lg-block sidemenu">
+                {% include sidemenu-{{act}}.html %}
+            </div>
 
-            <div class="col-md-8 col-sm-12">
-                <div class="intro-pic">
+            <div class="col-lg-8 col-md-12">
+                <h1 class="">{{ page.title }}</h1>
+                <hr class="divider my-2">
+
+                <div class="intro-pic mb-2">
                     <img src="/img/hero/{{ page.hero }}"
                          alt="Osoba przedstawiająca ofertę {{ page.title }}"
                          style="object-position: {{ page.hero-position }};"
@@ -37,7 +36,7 @@
     </div>
 </div>
 
-{% include contact.html background="bg-light" %}
+{% include contact.html background="" %}
 
 {% include footer.html %}
 <script>
@@ -45,6 +44,8 @@
     $('nav a').filter(function() {
         return this.href == url;
     }).addClass('active');
+
+
 </script>
 </body>
 </html>

@@ -1,0 +1,15 @@
+.prices {
+
+  table {
+    tr {
+      th, td {
+        &:first-child {
+          width: 60%;
+        }
+        &:nth-child(2), &:nth-child(3) {
+          width: 20%;
+        }
+      }
+    }
+  }
+}

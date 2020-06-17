@@ -2,12 +2,8 @@
 layout: subpage
 hero: "dreamstime_56749443.jpg"
 hero-position: "100% 30%"
-title: "Logopeda dla młodzieży | LogosArt Łódź"
+title: "Logopeda dla młodzieży"
 ---
-
-# Logopeda dla młodzieży
-
-<hr>
 
 Zakres pracy z młodzieżą:
 

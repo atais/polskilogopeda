@@ -1,13 +1,9 @@
 ---
 layout: subpage
 hero: "stock-1613073370.jpg"
-title: "Logopeda zajęcia grupowe | LogosArt Łódź"
+title: "Logopeda zajęcia grupowe"
 hero-position: "100% 10%"
 ---
-
-# Zajęcia grupowe
-
-<hr>
 
 Oprócz terapii indywidualnych oferujemy również możliwość poprowadzenia 
 zajęć grupowych. Pisany jest program autorski, dostosowany do wymogów 

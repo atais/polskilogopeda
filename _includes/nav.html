@@ -23,12 +23,13 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto my-2 my-lg-0">
 
-                <li class="nav-item">
+                <li class="nav-item d-none">
                     <a class="nav-link " href="/blog">Blog</a>
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle {%if include.active == 'zajecia' %}active{% endif %}" data-target="#" id="servicesDropdown"
+                    <a class="nav-link dropdown-toggle {%if include.active == 'zajecia' %}active{% endif %}"
+                       href="#" id="servicesDropdown"
                        role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Zajęcia
                     </a>
@@ -40,7 +41,8 @@
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle {%if include.active == 'oferta' %}active{% endif %}" data-target="#" id="offerDropdown"
+                    <a class="nav-link dropdown-toggle {%if include.active == 'oferta' %}active{% endif %}"
+                       href="#" id="offerDropdown"
                        role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Oferta
                     </a>
@@ -57,10 +59,13 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link " href="#about">O nas</a>
+                    <a class="nav-link" href="/o-mnie">O mnie</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#contact">Kontakt</a>
+                    <a class="nav-link" href="/cennik">Cennik</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/kontakt">Kontakt</a>
                 </li>
             </ul>
         </div>

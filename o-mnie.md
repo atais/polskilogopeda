@@ -1,0 +1,152 @@
+---
+layout: info
+title: "Logopeda Łódź - Gabinet"
+---
+
+<div class="about">
+    <div class="container-fluid">
+        <h1 class="section-title">Logopeda Łódź - Grażyna Walasek</h1>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="text-center section">
+                    <img src="img/me.jpg" alt="Zdjęcie Grażyny Walasek">
+                </div>
+
+                <p class="section">
+                    Praca nad słowem, głosem i ciałem interesowały mnie od zawsze. Studia aktorskie pozwoliły mi
+                    wpleść literaturę w te działania i nadać im wyraz artystyczny.
+                    Edukacyjna Agencja Aktorska zrodziła się z chęci dzielenia się moją pasją z innymi.
+                    Tworzyłam tam programy oparte na polskiej poezji&nbsp;i prozie.
+                    Podyplomowe Studium Logopedyczne
+                    rozszerzyło moją wiedzę o praktycznych&nbsp;i teoretycznych aspektach pracy
+                    nad głosem i artykulacją.
+                    Od wielu lat, z niesłabnącym zainteresowaniem kontynuuję tę pracę,
+                    pomagając dzieciom, młodzieży i osobom dorosłym pozbyć się problemów z emisją&nbsp;i wymową.
+                    Logopedia medialna stała się idealnym połączeniem moich dwóch zawodów.
+                </p>
+            </div>
+
+            <div class="col-sm-8">
+                <div class="row">
+                    <div class="col-sm-12 section">
+                        <h2>Wykształcenie</h2>
+                        <div class="media">
+                            <div class="media-left">
+                                <div class="boxed-icon"><i class="fa fa-star icon"></i></div>
+                            </div>
+                            <div class="media-body">
+                                <p>
+                                    2001 - Podyplomowe Studium Logopedyczne, Uniwersytet Łódzki, Wydział Nauk&nbsp;o
+                                    Wychowaniu
+                                </p>
+                            </div>
+                        </div>
+                        <div class="media">
+                            <div class="media-left">
+                                <div class="boxed-icon"><i class="fa fa-star icon"></i></div>
+                            </div>
+                            <div class="media-body">
+                                <p>
+                                    1984 - Studia magisterskie, Państwowa Wyższa Szkoła Teatralna&nbsp;w Krakowie, Wydział
+                                    Aktorski
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-12 section">
+                        <h2>Wybrany dorobek artystyczny</h2>
+                        <div class="media">
+                            <div class="media-left">
+                                <div class="boxed-icon"><i class="fa fa-star icon"></i></div>
+                            </div>
+                            <div class="media-body">
+                                <p>1984-teraz - Aktorka, Teatr im. Stefana Jaracza, Łódź</p>
+                                <p>Aktorka teatralna, filmowa i telewizyjna. Udział w&nbsp;reklamach, słuchowiskach
+                                    radiowych i&nbsp;programach poetyckich. Udział w&nbsp;licznych etiudach studentów
+                                    łódzkiej Szkoły Filmowej. Użyczanie głosu postaciom w&nbsp;filmach
+                                    animowanych i&nbsp;dubbingowanie filmów obcojęzycznych</p>
+                            </div>
+                        </div>
+
+                        <div class="media">
+                            <div class="media-left">
+                                <div class="img"><img src="img/jaracz.png"
+                                                      alt="Profil Grażyny Walasek w Teatrze im. S. Jaracza w Łodzi">
+                                </div>
+                            </div>
+                            <div class="media-body">
+                                <p>
+                                    <a href="https://www.teatr-jaracza.lodz.pl/walasek.html" target="_blank">
+                                        Profil w Teatrze im. S. Jaracza
+                                        <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="media">
+                            <div class="media-left">
+                                <div class="img"><img src="img/filmweb.png"
+                                                      alt="Profil Grażyny Walasek w portalu Filmweb"></div>
+                            </div>
+                            <div class="media-body">
+                                <p>
+                                    <a href="http://www.filmweb.pl/person/Gra%C5%BCyna+Walasek-48141" target="_blank">
+                                        Profil w Portalu Filmweb.pl
+                                        <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+
+
+                        <div class="media">
+                            <div class="media-left">
+                                <div class="boxed-icon"><i class="fa fa-star icon"></i></div>
+                            </div>
+                            <div class="media-body">
+                                <p>1995-2001 - Właściciel, Edukacyjna Agencja Aktorska, Łódź</p>
+                                <p>Tworzenie programów edukacyjnych dla dzieci i&nbsp;młodzieży z&nbsp;literatury
+                                    polskiej.
+                                    Organizacja wyjazdowych przedstawień i&nbsp;udział w nich.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-12 section">
+                        <h2>Wybrany dorobek logopedyczny</h2>
+                        <div class="media">
+                            <div class="media-left">
+                                <div class="boxed-icon"><i class="fa fa-star icon"></i></div>
+                            </div>
+                            <div class="media-body">
+                                <p>2010-2012 - Wykładowca wymowy, Wydział Aktorski AHE, Łódź</p>
+                            </div>
+                        </div>
+                        <div class="media">
+                            <div class="media-left">
+                                <div class="boxed-icon"><i class="fa fa-star icon"></i></div>
+                            </div>
+                            <div class="media-body">
+                                <p>2001-2005 - Wykładowca wymowy, Wydział Aktorski PWSF, TViT, Łódź</p>
+                            </div>
+                        </div>
+                        <div class="media">
+                            <div class="media-left">
+                                <div class="boxed-icon"><i class="fa fa-star icon"></i></div>
+                            </div>
+                            <div class="media-body">
+                                <p>2001 - 2003 Wykładowca wymowy, Wydział Kompozycji, Teorii Muzyki, Rytmiki i&nbsp;Edukacji
+                                    Muzycznej, Akademia Muzyczna, Łódź </p>
+                                <p>Tworzenie autorskich programów dostosowanych do wymogów danej uczelni oraz
+                                    prowadzenie terapii mowy na zajęciach indywidualnych i&nbsp;grupowych.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

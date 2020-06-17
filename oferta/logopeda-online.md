@@ -2,12 +2,8 @@
 layout: subpage
 hero: "shutterstock_275489732.jpg"
 hero-position: "100% 35%"
-title: "Logopeda online, zajęcia logopedyczne online | LogosArt Łódź"
+title: "Logopeda online, zajęcia logopedyczne online"
 ---
-
-# Zajęcia logopedyczne online
-
-<hr>
 
 Z powodzeniem prowadzimy zdalne zajęcia logopedyczne dla różnych grup wiekowych.
 Zaletą tej formy zajęć jest wysoka dostępność oraz duża elastyczność czasowa. 
