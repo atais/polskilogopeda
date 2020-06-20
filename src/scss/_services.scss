@@ -1,8 +1,36 @@
 #services {
 
+    .post-list {
+
+        .post-card {
+          height: 100%;
+          background-color: $white;
+          transition: box-shadow .25s ease;
+
+          &:hover,
+          &:focus {
+            box-shadow: 0px 0px 15px 3px rgba(0,0,0,0.5);
+          }
+
+          .inner {
+            color: $body-color;
+
+            &:focus,
+            &:hover {
+              color: $body-color;
+              text-decoration: none;
+            }
+          }
+
+          img {
+            width: 100%;
+          }
+        }
+    }
+
+
     .row {
         div {
-
             // background-color: $white;
             color: $body-color;
         }
