@@ -1,6 +1,6 @@
 ---
 layout: subpage
-hero: "stock-1081029959.jpg"
+hero: "shutterstock_1081029959.jpg"
 title: "Przygotowanie do szkoły aktorskiej"
 hero-position: "100% 10%"
 ---

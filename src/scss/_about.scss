@@ -2,11 +2,11 @@
 -------------------------------------------------*/
 .about {
 
-      img {
-        max-width: 100%;
-        height: auto;
-        vertical-align: middle;
-      }
+  img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+  }
 
   .media {
     margin-bottom: 1em;
@@ -41,6 +41,10 @@
 
   a {
     text-decoration: underline;
+  }
+
+  h2 {
+    @extend .mb-3;
   }
 
 }

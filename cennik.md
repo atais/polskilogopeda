@@ -5,8 +5,12 @@ title: "Logopeda Łódź - Gabinet"
 
 <div class="prices">
     <div class="container-fluid">
-        <h1 class="section-title">Cennik</h1>
-        <div class="container">
+        <div class="row text-center">
+            <div class="col-sm-12">
+                <h1>Cennik</h1>
+                <hr class="divider my-2">
+            </div>
+        </div>
             <h2>Zajęcia indywidualne</h2>
             <p><small>ceny brutto (zawierają podatek VAT 23%)</small></p>
             <table class="table">
@@ -63,6 +67,5 @@ title: "Logopeda Łódź - Gabinet"
             <p>W cenę wliczone są materiały dydaktyczne.</p>
             <p>Opłaty dokonuje się gotówką lub przelewem.</p>
             <p>Firma wystawia faktury VAT.</p>
-        </div>
     </div>
 </div>

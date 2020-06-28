@@ -1,6 +1,6 @@
 ---
 layout: subpage
-hero: "stock-508913206.jpg"
+hero: "shutterstock_508913206.jpg"
 title: "Rozumienie poezji i prozy"
 hero-position: "100% 10%"
 ---

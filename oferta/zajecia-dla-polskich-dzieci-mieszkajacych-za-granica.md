@@ -1,6 +1,6 @@
 ---
 layout: subpage
-hero: "stock-1707844078.jpg"
+hero: "shutterstock_1707844078.jpg"
 title: "Dla dzieci mieszkających za granicą"
 hero-position: "100% 10%"
 ---

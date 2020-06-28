@@ -1,6 +1,6 @@
 ---
 layout: subpage
-hero: "stock-1613073370.jpg"
+hero: "shutterstock_1613073370.jpg"
 title: "Logopeda zajęcia grupowe"
 hero-position: "100% 10%"
 ---

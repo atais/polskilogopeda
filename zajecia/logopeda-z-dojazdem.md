@@ -1,6 +1,6 @@
 ---
 layout: subpage
-hero: "stock-125020304.jpg"
+hero: "shutterstock_125020304.jpg"
 hero-position: "100% 30%"
 title: "Logopeda z Dojazdem"
 ---

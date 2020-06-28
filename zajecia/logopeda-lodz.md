@@ -1,6 +1,6 @@
 ---
 layout: subpage
-hero: "stock-1617508468.jpg"
+hero: "shutterstock_1617508468.jpg"
 hero-position: "100% 40%"
 title: "Logopeda Łódź - Gabinet"
 ---
