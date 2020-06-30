@@ -8,8 +8,16 @@ var isDev = ENV === "webpack-dev";
 module.exports = function make() {
     var cfg = {};
 
+    if (isDev) {
+        cfg.mode = 'development';
+        cfg.devtool = "source-map";
+    } else {
+        cfg.mode = 'production';
+    }
+
     cfg.entry = {
         main: ['./src/js/index.js', './src/scss/index.scss'],
+        fonts: ['./src/js/index-fa.js'],
     };
     cfg.output = {
         filename: '[name].js',
@@ -50,8 +58,5 @@ module.exports = function make() {
         ]
     };
 
-    if (isDev) {
-        cfg.devtool = "source-map";
-    }
     return cfg;
 };

@@ -1,4 +1,4 @@
-require('@openfonts/rubik_all')
+require('@openfonts/rubik_all');
 
 import $ from 'jquery';
 window.jQuery = $;
@@ -7,7 +7,6 @@ require('gmap3');
 
 import 'popper.js';
 import 'bootstrap';
-import '@fortawesome/fontawesome-free/js/all';
 
 import 'jquery.easing';
 import 'magnific-popup';
