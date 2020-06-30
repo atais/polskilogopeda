@@ -7,6 +7,7 @@ markdown: kramdown
 exclude: [
     LICENSE,
     README.md,
+    SEO.md,
     package*.json,
     node_modules,
     dev-deploy.sh,

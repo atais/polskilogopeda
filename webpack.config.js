@@ -1,6 +1,7 @@
 const path = require('path');
 const webpack = require('webpack');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const TerserPlugin = require('terser-webpack-plugin');
 
 var ENV = process.env.npm_lifecycle_event;
 var isDev = ENV === "webpack-dev";
@@ -13,6 +14,17 @@ module.exports = function make() {
         cfg.devtool = "source-map";
     } else {
         cfg.mode = 'production';
+        cfg.optimization = {
+            minimizer: [
+                new TerserPlugin({
+                    terserOptions: {
+                        output: {
+                            comments: false
+                        }
+                    }
+                })
+            ],
+        }
     }
 
     cfg.entry = {
