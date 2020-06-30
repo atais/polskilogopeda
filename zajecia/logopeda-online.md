@@ -1,19 +1,22 @@
 ---
 layout: subpage
 hero: "shutterstock_275489732.jpg"
-hero-position: "100% 20%"
-title: "Logopeda Online"
+hero-position: "100% 35%"
+title: "Logopeda online, zajęcia logopedyczne online"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Nulla placerat lorem ex, vel dignissim mi ullamcorper eu. Integer tempus ante sed leo euismod, 
-vel dictum dolor consectetur. Orci varius natoque penatibus et magnis dis parturient montes, 
-nascetur ridiculus mus. Nunc tortor dolor, ornare euismod nisi id, finibus volutpat lacus. 
-Duis hendrerit, ante vel finibus sollicitudin, arcu enim scelerisque dui, at tempus sem mi eu ex. 
-Duis eget nulla sollicitudin sem hendrerit condimentum. Vestibulum ante ipsum primis in faucibus orci 
-luctus et ultrices posuere cubilia curae; Cras sit amet ultrices velit, et volutpat risus. Phasellus
- pulvinar ultrices lacus, non consectetur ex posuere ut. Nulla pulvinar, felis vel mollis gravida, 
- magna magna gravida purus, ut faucibus mi erat vel ipsum. Praesent eget nibh eu lectus ultricies dictum. 
- Curabitur aliquam justo venenatis risus suscipit, hendrerit auctor enim consectetur. 
- Donec imperdiet consectetur aliquet. Praesent magna augue, egestas ultricies sollicitudin ut,
-  imperdiet sit amet enim. Aenean lacus erat, molestie non iaculis at, tristique eget ligula.
+Z powodzeniem prowadzimy zdalne zajęcia logopedyczne dla różnych grup wiekowych.
+Zaletą tej formy zajęć jest wysoka dostępność oraz duża elastyczność czasowa. 
+Do prowadzenia zajęć wykorzystujemy programy: 
+
+- Skype
+- Zoom
+- Facebook Messenger
+
+dostosowując się do potrzeb i możliwości klienta.
+
+W sesjach wykorzystujemy materiały, które udostępniamy mailowo. Zawierają one zarówno 
+ćwiczenia wykorzystywane podczas zajęć jak i zadania domowe do wykonywania samodzielnie.
+
+Ofertę kierujemy zarówno do osób z zagranicy, poszukujących specjalisty w dziedzinie 
+poprawnej polszczyzny, jak i do wszystkich tych, którzy cenią sobię wygodę nauki bez wychodzenia z domu.
