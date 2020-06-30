@@ -7,6 +7,10 @@ nav#appNavbar {
         font-family: $font-family-sans-serif;
         font-weight: $font-weight-bold;
         color: $gray-900;
+
+        &:hover, &:active {
+            color: $primary;
+        }
     }
     .navbar-nav {
         .nav-item {
