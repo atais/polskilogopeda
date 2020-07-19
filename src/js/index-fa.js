@@ -12,7 +12,8 @@ import {
     faGraduationCap,
     faPlane,
     faUsers,
-    faStar
+    faStar,
+    faAngleDown
 } from '@fortawesome/free-solid-svg-icons'
 
 import {
@@ -36,6 +37,7 @@ library.add(
     faPlane,
     faUsers,
     faStar,
+    faAngleDown
 );
 library.add(
     faEnvelopeOpen,

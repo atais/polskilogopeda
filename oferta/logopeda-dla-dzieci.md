@@ -23,8 +23,8 @@ Powinno Państwa zaniepokoić gdy dziecko mając lat 4 nie wymawia głosek |s| |
 mając lat 5 nie wymawia głosek |sz| |ż| |cz| |dż| i mając lat 6 nie wymawia głoski |r|. 
 
 Stymulacja rozwoju prawidłowej artykulacji jest niezbędna. Staramy się dostosować terapię do 
-wieku i możliwości percepcyjnych małych klientów. Może więc ona zawierać elementy zabawy w 
-przypadku młodszych dzieci. Ważne jest wzbudzenie zainteresowania dziecka prowadzonymi zajęciami i 
+wieku i możliwości percepcyjnych małych klientów. Może więc ona zawierać elementy zabawy 
+w&nbsp;przypadku młodszych dzieci. Ważne jest wzbudzenie zainteresowania dziecka prowadzonymi zajęciami i 
 zadowolenia z osiąganych wyników. W naszej terapii mogą więc wystąpić takie elementy jak:
  
 - ćwiczenia języka 

@@ -2,7 +2,7 @@
 layout: subpage
 hero: "shutterstock_125020304.jpg"
 hero-position: "100% 30%"
-title: "Logopeda z Dojazdem"
+title: "Logopeda z dojazdem"
 ---
 
 Jeżeli byłaby taka potrzeba, jestesmy w stanie również dojechać do klienta. 

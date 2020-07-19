@@ -5,7 +5,7 @@ hero-position: "100% 20%"
 title: "Zajęcia logopedyczne dla dorosłych"
 ---
 
-Trudności z poprawną artykulacją u tej grupy wiekowej  mogą być przyczyną problemów w kontaktach interpersonalnych, 
+Trudności z poprawną artykulacją u tej grupy wiekowej  mogą być przyczyną problemów w&nbsp;kontaktach interpersonalnych, 
 powodować powstawanie kompleksów i niską samoocenę. Zajęcia terapeutyczne dla dorosłych prowadzone 
 są w zakresie diagnozowania i korygowania wad wymowy, ale też pracujemy z klientami, którzy upraszczają 
 pewne grupy spółgłoskowe, bądź eliminują niektóre głoski. 

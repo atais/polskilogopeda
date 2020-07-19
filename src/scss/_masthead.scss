@@ -20,6 +20,9 @@ header.masthead {
     .title-size {
         font-size: 3rem;
     }
+    p {
+        font-size: 1.2em;
+    }
 
     @include media-breakpoint-up(lg) {
         height: 100vh;
@@ -27,7 +30,7 @@ header.masthead {
         padding-top: $navbar-height;
         padding-bottom: 0;
         p {
-            font-size: 1.15rem;
+            font-size: 1.6em;
         }
 
         .title-size {
@@ -36,6 +39,10 @@ header.masthead {
 
     }
     @include media-breakpoint-up(xl) {
+        p {
+            font-size: 1.8rem;
+        }
+
         .title-size {
             font-size: 5rem;
         }

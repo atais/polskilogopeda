@@ -15,7 +15,7 @@ Zakres pracy z młodzieżą:
 
 ## Przygotowanie do szkoły aktorskiej
 
-Tym, którzy chcieliby spróbować swoich sił w zawodzie aktora proponujemy pomoc w przygotowaniu 
+Tym, którzy chcieliby spróbować swoich sił w zawodzie aktora proponujemy pomoc w&nbsp;przygotowaniu 
 do egzaminów do szkół teatralnych. Zajmiemy się:
 
 - poprawieniem sprawności artykulacyjnej aparatu mowy

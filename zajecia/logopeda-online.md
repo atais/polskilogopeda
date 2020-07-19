@@ -2,7 +2,7 @@
 layout: subpage
 hero: "shutterstock_275489732.jpg"
 hero-position: "100% 35%"
-title: "Logopeda online, zajęcia logopedyczne online"
+title: "Zajęcia logopedyczne online"
 ---
 
 Z powodzeniem prowadzimy zdalne zajęcia logopedyczne dla różnych grup wiekowych.
