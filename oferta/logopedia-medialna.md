@@ -1,8 +1,9 @@
 ---
 layout: subpage
-hero: "shutterstock_1188728074.jpg"
-hero-position: "100% 90%"
-title: "Logopedia medialna"
+hero: shutterstock_1188728074.jpg
+hero-position: 100% 90%
+title: Logopedia medialna
+meta-title: Logopedia medialna | PolskiLogopeda.pl
 ---
 
 To dział logopedii zajmujący się szkoleniem w zakresie poprawnej wymowy i emisji głosu. 

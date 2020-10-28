@@ -1,8 +1,9 @@
 ---
 layout: subpage
-hero: "shutterstock_1707844078.jpg"
-title: "Dla Polaków mieszkających za granicą"
-hero-position: "100% 10%"
+hero: shutterstock_1707844078.jpg
+hero-position: 100% 10%
+title: Dla Polaków mieszkających za granicą
+meta-title: Dla Polaków mieszkających za granicą | PolskiLogopeda.pl
 ---
 
 <section>

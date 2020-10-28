@@ -1,8 +1,9 @@
 ---
 layout: subpage
-hero: "dreamstime_75973715.jpg"
-hero-position: "100% 20%"
-title: "Zajęcia logopedyczne dla dorosłych"
+hero: dreamstime_75973715.jpg
+hero-position: 100% 20%
+title: Zajęcia logopedyczne dla dorosłych
+meta-title: Zajęcia logopedyczne dla dorosłych | PolskiLogopeda.pl
 ---
 
 Trudności z poprawną artykulacją u tej grupy wiekowej  mogą być przyczyną problemów w&nbsp;kontaktach interpersonalnych, 

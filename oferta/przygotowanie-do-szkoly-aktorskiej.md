@@ -1,8 +1,9 @@
 ---
 layout: subpage
-hero: "shutterstock_1081029959.jpg"
-title: "Przygotowanie do szkoły aktorskiej"
-hero-position: "100% 10%"
+hero: shutterstock_1081029959.jpg
+hero-position: 100% 10%
+title: Przygotowanie do szkoły aktorskiej
+meta-title: Przygotowanie do szkoły aktorskiej | PolskiLogopeda.pl
 ---
 
 Oferta skierowana jest do tych młodych ludzi, którzy planują związać swoje życie z zawodem aktora 

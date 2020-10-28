@@ -9,10 +9,6 @@ keywords: "logopeda, logopedia, specjalista logopeda, łódź, logopeda łódź,
             logopedia medialna, logopeda dla dzieci, logopeda dla młodzieży, logopeda dla dorosłych,
             przygotowanie do szkoły teatralnej, przygotowanie do szkoły filmowej,
             poprawa dykcji, poprawa artykulacji, sztuka prezentacji"
-thumbnail: "/img/thumbnail.png"
-logo: "/img/logo.png"
-hero: "/img/hero/orig/shutterstock_208347706.jpg"
-
 
 # Build settings
 markdown: kramdown

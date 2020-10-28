@@ -1,8 +1,9 @@
 ---
 layout: subpage
-hero: "shutterstock_1613073370.jpg"
-title: "Logopeda zajęcia grupowe"
-hero-position: "100% 10%"
+hero: shutterstock_1613073370.jpg
+hero-position: 100% 10%
+title: Logopeda zajęcia grupowe
+meta-title: Logopeda zajęcia grupowe | PolskiLogopeda.pl
 ---
 
 Oprócz terapii indywidualnych oferujemy również możliwość poprowadzenia 

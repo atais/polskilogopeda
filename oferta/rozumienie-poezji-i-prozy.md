@@ -1,8 +1,9 @@
 ---
 layout: subpage
-hero: "shutterstock_508913206.jpg"
-title: "Rozumienie poezji i prozy"
-hero-position: "100% 10%"
+hero: shutterstock_508913206.jpg
+hero-position: 100% 10%
+title: Rozumienie poezji i prozy
+meta-title: Rozumienie poezji i prozy | PolskiLogopeda.pl
 ---
 
 Zrozumienie czytanego tekstu jest procesem bardzo skomplikowanym i wieloetapowym. 

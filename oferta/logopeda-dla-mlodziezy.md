@@ -1,8 +1,9 @@
 ---
 layout: subpage
-hero: "dreamstime_56749443.jpg"
-hero-position: "100% 30%"
-title: "Logopeda dla młodzieży"
+hero: dreamstime_56749443.jpg
+hero-position: 100% 30%
+title: Logopeda dla młodzieży
+meta-title: Logopeda dla młodzieży | PolskiLogopeda.pl
 ---
 
 Zakres pracy z młodzieżą:

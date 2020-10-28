@@ -1,8 +1,9 @@
 ---
 layout: subpage
-hero: "shutterstock_275489732.jpg"
-hero-position: "100% 35%"
-title: "Zajęcia logopedyczne online"
+hero: shutterstock_275489732.jpg
+hero-position: 100% 35%
+title: Zajęcia logopedyczne online
+meta-title: Zajęcia logopedyczne online | PolskiLogopeda.pl
 ---
 
 Z powodzeniem prowadzimy zdalne zajęcia logopedyczne dla różnych grup wiekowych.

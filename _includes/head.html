@@ -5,23 +5,31 @@
     <meta name="robots" content="index, follow">
 
     <!-- Meta -->
-    <title>{% if page.title %}{{ page.title }} | Polski Logopeda Łódź{% else %}Polski Logopeda Łódź{% endif %}</title>
+    <title>{{ page.meta-title }}</title>
     <meta name="description" content="{{ site.description }}">
     <meta name="keywords" content="{{ site.keywords }}">
     <link rel="canonical" href="{{ site.url }}"/>
     <link rel="author" href="https://github.com/atais"/>
 
     <!-- Faceboook meta -->
-    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:title" content="{{ page.meta-title }}">
     <meta property="og:description" content="{{ site.description }}">
     <meta property="og:url" content="{{ site.url }}">
-    <meta property="og:image" content="{{ site.url }}/{{ site.hero }}">
+    {% if page.hero %}
+    <meta property="og:image" content="{{ site.url }}/img/hero/orig/{{ page.hero }}">
+    {% else %}
+    <meta property="og:image" content="{{ site.url }}/img/hero/orig/shutterstock_208347706.jpg">
+    {% endif %}
     <meta property="og:locale" content="pl_PL">
 
     <!-- Twitter meta -->
-    <meta name="twitter:title" content="{{ page.title }}"/>
+    <meta name="twitter:title" content="{{ page.meta-title }}"/>
     <meta name="twitter:description" content="{{ site.description }}"/>
-    <meta name="twitter:image" content="{{ site.url }}/{{ site.thumbnail }}"/>
+    {% if page.hero %}
+    <meta property="twitter:image" content="{{ site.url }}/img/hero/orig/{{ page.hero }}">
+    {% else %}
+    <meta property="twitter:image" content="{{ site.url }}/img/hero/orig/shutterstock_208347706.jpg">
+    {% endif %}
     <meta name="twitter:card" content="summary"/>
 
     <!-- Stylesheet -->
@@ -38,11 +46,13 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-103802854-2"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
 
-      gtag('config', 'UA-103802854-2');
+        function gtag() {
+            dataLayer.push(arguments);
+        }
 
+        gtag('js', new Date());
+        gtag('config', 'UA-103802854-2');
     </script>
 </head>

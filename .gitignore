@@ -2,5 +2,6 @@ node_modules
 _site
 .idea
 .DS_Store
+.jekyll-cache
 Gemfile.lock
 package-lock.json

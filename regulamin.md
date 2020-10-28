@@ -1,6 +1,6 @@
 ---
 layout: info
-title: "Regulamin"
+meta-title: Regulamin PolskiLogopeda.pl
 ---
 # Regulamin PolskiLogopeda.pl
 <hr class="dark my-4">

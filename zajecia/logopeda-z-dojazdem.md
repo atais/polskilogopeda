@@ -1,8 +1,9 @@
 ---
 layout: subpage
-hero: "shutterstock_125020304.jpg"
-hero-position: "100% 30%"
-title: "Logopeda z dojazdem"
+hero: shutterstock_125020304.jpg
+hero-position: 100% 30%
+title: Logopeda z dojazdem
+meta-title: Logopeda z dojazdem Łódź | PolskiLogopeda.pl
 ---
 
 Jeżeli byłaby taka potrzeba, jestesmy w stanie również dojechać do klienta. 

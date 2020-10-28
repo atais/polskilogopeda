@@ -1,8 +1,9 @@
 ---
 layout: subpage
-hero: "shutterstock_1617508468.jpg"
-hero-position: "100% 40%"
-title: "Logopeda Łódź - Gabinet"
+hero: shutterstock_1617508468.jpg
+hero-position: 100% 40%
+title: Logopeda Łódź - Gabinet
+meta-title: Logopeda Łódź - Gabinet | PolskiLogopeda.pl
 ---
 
 Podstawową formą prowadzonej terapii logopedycznej są zajęcia w gabinecie. Schemat może być bardzo różny, 
