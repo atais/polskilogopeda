@@ -12,7 +12,7 @@ title: "Regulamin"
     - w miejscu wskazanym przez Klienta
     - Online
 3. Zajęcia odbywają się po wcześniejszym uzgodnieniu z Klientem terminu i formy lub miejsca.
-4. Diagnoza i zajęcia terapeutyczne są odpłatne, dokładna oferta oraz cennik są dostępne na stronie internetowej: https://polskilogopeda.pl/cennik 
+4. Diagnoza i zajęcia terapeutyczne są odpłatne, dokładna oferta oraz cennik są dostępne na stronie internetowej: [https://polskilogopeda.pl/cennik](https://polskilogopeda.pl/cennik) 
 5. Zespół posiada pełne kwalifikacje do prowadzenia oferowanych zajęć.
 6. Dane o Klientach są objęte tajemnicą.
  
@@ -41,6 +41,6 @@ title: "Regulamin"
 6. Nieobecność na zajęciach bez powiadomienia nie zwalnia od opłaty.
 7. Przypadki nieobecności losowych rozpatrywane są indywidualnie.
 8. Nieprzestrzeganie przez Klientów powyższych zasad lub powtarzające się nagminne nieobecności mogą być powodem wypowiedzenia usług terapeutycznych.
-9. Wszelkie zastrzeżenia, uwagi i zapytania prosimy kierować na adres email: info@polskilogopeda.pl 
+9. Wszelkie zastrzeżenia, uwagi i zapytania prosimy kierować na adres email: [info@polskilogopeda.pl](mailto:info@polskilogopeda.pl) 
  
 
