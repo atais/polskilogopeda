@@ -27,7 +27,7 @@
 6. Start the development server
 
    ```
-   npm run dev
+   npm start
    ```
 
 # Deploy
