@@ -1,2 +1,21 @@
 footer {
+  .sitemap {
+    p {
+      margin-bottom: 0.2rem;
+    }
+
+    a {
+      color: $body-color;
+    }
+
+    ul {
+      padding: 0 0 0 0.5em;
+      margin: 0;
+      list-style-type: none;
+
+      li {
+        margin-bottom: 0.2rem;
+      }
+    }
+  }
 }
