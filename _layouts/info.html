@@ -4,7 +4,7 @@
 {% include head.html %}
 
 <body id="page-top">
-{% assign act = page.dir | remove: "/" %}
+{% assign act = page.url | remove: "/" | remove: ".html" %}
 {% include nav.html active=act nav-name='subNav' %}
 
 

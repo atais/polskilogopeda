@@ -2,26 +2,27 @@
 @import "~@openfonts/rubik_all/index.css";
 
 // Import custom variables and override default Bootstrap variables
-@import "./variables.scss";
+@import "./variables";
 
 // Import Bootstrap
-@import "bootstrap/scss/bootstrap.scss";
+@import "bootstrap/scss/bootstrap";
 
 // Import magnific-popup
-@import "magnific-popup/src/css/main.scss";
+@import "magnific-popup/src/css/main";
 
 // Import custom styles
-@import "./global.scss";
-@import "./nav.scss";
-@import "./offer.scss";
-@import "./masthead.scss";
-@import "./services.scss";
-@import "./map.scss";
-@import "./contact.scss";
-@import "./footer.scss";
-@import "./subpage.scss";
-@import "./prices.scss";
-@import "./about.scss";
+@import "./global";
+@import "./nav";
+@import "./offer";
+@import "./masthead";
+@import "./services";
+@import "./map";
+@import "./contact";
+@import "./footer";
+@import "./subpage";
+@import "./prices";
+@import "./about";
+@import "./rules";
 
 // Import custom utilities
-@import "./utilities.scss";
+@import "./utilities";
