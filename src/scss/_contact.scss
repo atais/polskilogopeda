@@ -1,31 +1,26 @@
 #contact {
 
   @include media-breakpoint-down(xs) {
-     padding: 0;
+    padding: 0;
   }
 
-//   &.bg-red {
-//     @include media-breakpoint-up(lg) {
-//         background: $red;
-//         background: linear-gradient(0deg, $red 50%, $gray 50%);
-//     }
-// }
-
   [class^="col-"] {
-     padding: $spacer*3 $spacer;
+    padding: $spacer*3 $spacer;
 
-     @include media-breakpoint-up(md) {
-        padding-left: $spacer*3;
-        padding-right: $spacer*3;
-     }
+    @include media-breakpoint-up(md) {
+      padding-left: $spacer*3;
+      padding-right: $spacer*3;
+    }
   }
 
   .order-lg-1 {
     background: lighten($gray, 5%);
   }
+
   .order-lg-2 {
     background: lighten($gray, 3%);
   }
+
   .order-lg-3 {
     background: lighten($gray, 1%);
   }
@@ -38,6 +33,7 @@
     li {
       @extend .mb-1;
     }
+
     a {
       text-decoration: underline;
     }
@@ -53,6 +49,27 @@
       border-color: $red;
       background: $white;
     }
+  }
+
+  .blur {
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+  }
+
+  .form-status {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  .instead {
+    position: absolute;
+    z-index: 100;
+    padding-top: 5em;
+    left: 0;
+    right: 0;
   }
 
 }

@@ -1,6 +1,7 @@
 require('@openfonts/rubik_all');
 
 import $ from 'jquery';
+
 window.jQuery = $;
 window.$ = $;
 require('gmap3');

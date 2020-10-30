@@ -1,4 +1,4 @@
-import { library, dom } from '@fortawesome/fontawesome-svg-core'
+import {library, dom} from '@fortawesome/fontawesome-svg-core'
 import {
     faPhone,
     faAt,
@@ -13,7 +13,9 @@ import {
     faPlane,
     faUsers,
     faStar,
-    faAngleDown
+    faAngleDown,
+    faCheckCircle,
+    faTimesCircle
 } from '@fortawesome/free-solid-svg-icons'
 
 import {
@@ -37,7 +39,9 @@ library.add(
     faPlane,
     faUsers,
     faStar,
-    faAngleDown
+    faAngleDown,
+    faCheckCircle,
+    faTimesCircle
 );
 library.add(
     faEnvelopeOpen,
