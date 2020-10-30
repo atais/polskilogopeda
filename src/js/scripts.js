@@ -31,24 +31,6 @@
             $(window).scroll(navbarCollapse);
         }
 
-        // Magnific popup calls
-        $('#portfolio').each(function (el) {
-            el.magnificPopup({
-                delegate: 'a',
-                type: 'image',
-                tLoading: 'Loading image #%curr%...',
-                mainClass: 'mfp-img-mobile',
-                gallery: {
-                    enabled: true,
-                    navigateByImgClick: true,
-                    preload: [0, 1]
-                },
-                image: {
-                    tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
-                }
-            });
-        });
-
         /* Google map
         ----------------------------------------------*/
         $("#google-map").each(function () {
@@ -101,6 +83,5 @@
             });
         });
     });
-})
-($, google);
+})($, google);
 // End of use strict
