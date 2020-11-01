@@ -4,6 +4,7 @@ hero: shutterstock_1081029959.jpg
 hero-position: 100% 10%
 title: Przygotowanie do szkoły aktorskiej
 meta-title: Przygotowanie do szkoły aktorskiej | PolskiLogopeda.pl
+meta-desc: Służymy młodzieży radą i doświadczeniem w przygotowaniach do egzaminów do szkoły filmowej i teatralnej. Terapia dostępna zarówno stacjonarnie w Łodzi, jak i Online!
 ---
 
 Oferta skierowana jest do tych młodych ludzi, którzy planują związać swoje życie z zawodem aktora 

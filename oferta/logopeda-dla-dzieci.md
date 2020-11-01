@@ -4,6 +4,7 @@ hero: shutterstock_1241157361.jpg
 hero-position: 100% 10%
 title: Logopeda dla dzieci
 meta-title: Logopeda dla dzieci | PolskiLogopeda.pl
+meta-desc: Oferujemy zajęcia logopedyczne dla dzieci, dopasowując program ćwiczeń do wieku. Pomagamy z wymową spółgłosek r, sz; seplenieniem i innymi problemami z wymową u dzieci.  
 ---
 
 Przeprowadzamy diagnozę logopedyczną, w efekcie której możliwe jest ustalenie poziomu rozwoju mowy dziecka. 

@@ -4,6 +4,7 @@ hero: shutterstock_275489732.jpg
 hero-position: 100% 35%
 title: Zajęcia logopedyczne online
 meta-title: Zajęcia logopedyczne online | PolskiLogopeda.pl
+meta-desc: Nowa forma zajęć logopedycznych online, pozwala na wygodne prowadzenie terapii z dowolnego miejsca na świecie. W tej formie dostępna jest nasza pełna oferta!  
 ---
 
 Z powodzeniem prowadzimy zdalne zajęcia logopedyczne dla różnych grup wiekowych.

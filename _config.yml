@@ -2,11 +2,6 @@ encoding: utf-8
 livereload: true
 
 url: "https://polskilogopeda.pl"
-description: "PolskiLogopeda oferuje profesjonalne usługi logopedyczne dla dorosłych, dzieci i młodzieży. Specjalizujemy się
-              w logopedii medialnej, pomocy osobom, których głos i dykcja stanowią podstawę warsztatu pracy oraz służymy
-              radą i doświadczeniem młodzieży w przygotowaniach do egzaminów do szkoły filmowej i teatralnej."
-
-# Build settings
 markdown: kramdown
 
 exclude: [

@@ -1,6 +1,7 @@
 ---
 layout: info
 meta-title: Regulamin PolskiLogopeda.pl
+meta-desc: Regulamin usług logopedycznych świadczonych przez PolskiLogopeda.pl. Uczestnictwo w zajęciach oznacza akceptację regulaminu. W razie wątpliwości zapraszamy do kontaktu!    
 ---
 # Regulamin PolskiLogopeda.pl
 <hr class="dark my-4">

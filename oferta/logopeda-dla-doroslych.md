@@ -4,6 +4,7 @@ hero: dreamstime_75973715.jpg
 hero-position: 100% 20%
 title: Zajęcia logopedyczne dla dorosłych
 meta-title: Zajęcia logopedyczne dla dorosłych | PolskiLogopeda.pl
+meta-desc: Profesjonalne zajęcia logopedyczne dla dorosłych. Pomagamy ze wszystkimi wadami wymowy, oferując ćwiczenia dykcji, ćwiczenia poprawnej artykulacji oraz pracę nad oddechem. 
 ---
 
 Trudności z poprawną artykulacją u tej grupy wiekowej  mogą być przyczyną problemów w&nbsp;kontaktach interpersonalnych, 

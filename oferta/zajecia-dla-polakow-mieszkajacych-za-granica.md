@@ -4,6 +4,7 @@ hero: shutterstock_1707844078.jpg
 hero-position: 100% 10%
 title: Dla Polaków mieszkających za granicą
 meta-title: Dla Polaków mieszkających za granicą | PolskiLogopeda.pl
+meta-desc: Proponujemy zajęcia Online dla Polaków mieszkających za granicą. Utrzymaj kontakt z językiem i kulturą, zapoznaj swoje dzieci z podstawami polskiej kultury. Zapraszamy do kontaktu!
 ---
 
 <section>
@@ -27,7 +28,7 @@ Założyli tam rodziny, ale kontakt ich i ich dzieci z językiem polskim może n
 Właśnie do tych osób skierowana jest moja oferta!
 
 **Jesteście polską lub dwujęzyczną rodziną i chcielibyście odnowić lub pogłębić swój kontakt z językiem polskim?** <br>
-**Macie dzieci, które na co dzień mówią innym językiem, a chcielibyście by potrafiły też posługiwać się poprawną polszczyzną?**
+**Macie dzieci, które na co dzień mówią innym językiem, a chcielibyście, by potrafiły też posługiwać się poprawną polszczyzną?**
 
 ## Kontakt z polską kulturą podczas zajęć
 

@@ -6,13 +6,13 @@
 
     <!-- Meta -->
     <title>{{ page.meta-title }}</title>
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ page.meta-desc }}">
     <link rel="canonical" href="{{ site.url }}{{ page.url | remove: '.html' }}"/>
     <link rel="author" href="https://github.com/atais"/>
 
     <!-- Faceboook meta -->
     <meta property="og:title" content="{{ page.meta-title }}">
-    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:description" content="{{ page.meta-desc }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '.html' }}">
     {% if page.hero %}
     <meta property="og:image" content="{{ site.url }}/img/hero/orig/{{ page.hero }}">
@@ -24,7 +24,7 @@
 
     <!-- Twitter meta -->
     <meta name="twitter:title" content="{{ page.meta-title }}"/>
-    <meta name="twitter:description" content="{{ site.description }}"/>
+    <meta name="twitter:description" content="{{ page.meta-desc }}"/>
     {% if page.hero %}
     <meta property="twitter:image" content="{{ site.url }}/img/hero/orig/{{ page.hero }}">
     {% else %}
