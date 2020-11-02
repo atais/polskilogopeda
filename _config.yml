@@ -21,6 +21,3 @@ exclude: [
 keep_files: [
   assets
 ]
-
-plugins:
-  - jekyll-sitemap
