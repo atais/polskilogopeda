@@ -4,7 +4,7 @@ hero: dreamstime_56749443.jpg
 hero-position: 100% 30%
 title: Logopeda dla młodzieży
 meta-title: Logopeda dla młodzieży | PolskiLogopeda.pl
-meta-desc: Zajęcia logopedyczne dla młodzieży. Zajmujemy się zarówno wadami wymowy, seplenieniem, jak i pracą nad poprawną polszczyzną czy rozumieniem poezji i prozy.
+meta-desc: Zajęcia logopedyczne dla młodzieży. Zajmujemy się zarówno wadami wymowy np. seplenieniem, jak i pracą nad poprawną polszczyzną, czy rozumieniem poezji i prozy.
 ---
 
 Zakres pracy z młodzieżą:

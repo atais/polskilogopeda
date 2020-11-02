@@ -4,7 +4,7 @@ hero: shutterstock_508913206.jpg
 hero-position: 100% 10%
 title: Rozumienie poezji i prozy
 meta-title: Rozumienie poezji i prozy | PolskiLogopeda.pl
-meta-desc: Pomagamy w zrozumieniu tekstów lektur, poezji i prozy. Wykorzystujemy doświadczenie artystyczne w tłumaczeniu przekazu, uczymy jak pracować z tekstem oraz poprawnie go interpretować.
+meta-desc: Wykorzystujemy doświadczenie artystyczne, ucząc jak pracować nad tekstem oraz jak go interpretować. Pracujemy nad tekstami z poezji i prozy.
 ---
 
 Zrozumienie czytanego tekstu jest procesem bardzo skomplikowanym i wieloetapowym. 

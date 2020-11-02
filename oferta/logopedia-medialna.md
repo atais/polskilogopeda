@@ -4,7 +4,7 @@ hero: shutterstock_1188728074.jpg
 hero-position: 100% 90%
 title: Logopedia medialna
 meta-title: Logopedia medialna | PolskiLogopeda.pl
-meta-desc: Specjalizujemy się w logopedii medialnej, pomocy osobom, których głos i dykcja stanowią podstawę warsztatu pracy. Prowadzimy zajęcia oddechowe oraz pomagamy w poprawnej artykulacji.
+meta-desc: Specjalizujemy się w logopedii medialnej. Pomagamy osobom, dla których głos i dykcja stanowią podstawę warsztatu pracy. Prowadzimy ćwiczenia oddechowe, fonacyjne oraz usprawniające aparat artykulacyjny.
 ---
 
 To dział logopedii zajmujący się szkoleniem w zakresie poprawnej wymowy i emisji głosu. 

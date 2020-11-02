@@ -4,7 +4,7 @@ hero: shutterstock_1707844078.jpg
 hero-position: 100% 10%
 title: Dla Polaków mieszkających za granicą
 meta-title: Dla Polaków mieszkających za granicą | PolskiLogopeda.pl
-meta-desc: Proponujemy zajęcia Online dla Polaków mieszkających za granicą. Utrzymaj kontakt z językiem i kulturą, zapoznaj swoje dzieci z podstawami polskiej kultury. Zapraszamy do kontaktu!
+meta-desc: Proponujemy zajęcia Online dla Polaków mieszkających za granicą. Utrzymaj kontakt z językiem i kulturą. Zapoznaj swoje dzieci z podstawami polskiej kultury. Zapraszamy do kontaktu!
 ---
 
 <section>
