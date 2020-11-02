@@ -1,51 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://polskilogopeda.pl/cennik.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/kontakt.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/oferta/logopeda-dla-doroslych.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/oferta/logopeda-dla-dzieci.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/oferta/logopeda-dla-mlodziezy.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/zajecia/logopeda-lodz.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/zajecia/logopeda-online.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/zajecia/logopeda-z-dojazdem.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/oferta/logopeda-zajecia-grupowe.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/oferta/logopedia-medialna.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/o-mnie.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/oferta/przygotowanie-do-szkoly-aktorskiej.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/regulamin.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/oferta/rozumienie-poezji-i-prozy.html</loc>
-</url>
-<url>
-<loc>https://polskilogopeda.pl/oferta/zajecia-dla-polakow-mieszkajacych-za-granica.html</loc>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+    
+    <url>
+        <loc>https://polskilogopeda.pl/cennik</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/kontakt</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/oferta/logopeda-dla-doroslych</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/oferta/logopeda-dla-dzieci</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/oferta/logopeda-dla-mlodziezy</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/zajecia/logopeda-lodz</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/zajecia/logopeda-online</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/zajecia/logopeda-z-dojazdem</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/oferta/logopeda-zajecia-grupowe</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/oferta/logopedia-medialna</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/o-mnie</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/oferta/przygotowanie-do-szkoly-aktorskiej</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/regulamin</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/oferta/rozumienie-poezji-i-prozy</loc>
+        
+    </url>
+    
+    <url>
+        <loc>https://polskilogopeda.pl/oferta/zajecia-dla-polakow-mieszkajacych-za-granica</loc>
+        
+    </url>
+    
+
 </urlset>
