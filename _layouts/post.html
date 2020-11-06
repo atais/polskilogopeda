@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+{% include nav.html nav-name='subNav' %}
+
+<div class="page-section subpage-section subpage-margin bg-light">
+    <div class="container">
+        <h1>{{ page.meta-title }}</h1>
+
+        {{ content }}
+    </div>
+</div>
+
+{% include contact.html background="" %}
+
+{% include map.html %}
+
+{% include footer.html %}
+<script>
+    window.addEventListener("DOMContentLoaded", function () {
+        $('nav a').filter(function () {
+            console.log(this);
+            return this.href.includes('blog');
+        }).addClass('active');
+    });
+</script>
+</body>
+</html>

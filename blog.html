@@ -1,0 +1,28 @@
+---
+layout: info
+meta-title: Blog PolskiLogopeda.pl
+meta-desc: Na blogu PolskiLogopeda.pl znajdziecie dodatkowe informacje o naszej działalności logopedycznej oraz porady i ciekawe zagadnienia dotyczące logopedii oraz logopedii medialnej.
+---
+
+<div class="container-fluid">
+    <div class="row text-center">
+        <div class="col-sm-12">
+            <h1>{{ page.meta-title }}</h1>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="row">
+        {% for post in site.posts %}
+        <div class="col-sm-4 blog-entry">
+            <h2>
+                <a href="{{ post.url | replace: '.html', '' }}">{{ post.title }}</a>
+            </h2>
+            <p>
+                {{ post.excerpt }}
+            </p>
+        </div>
+        {% endfor %}
+    </div>
+</div>
