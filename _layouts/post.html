@@ -8,9 +8,26 @@
 
 <div class="page-section subpage-section subpage-margin bg-light">
     <div class="container">
-        <h1>{{ page.meta-title }}</h1>
-
-        {{ content }}
+        <div class="row">
+            <div class="col-md-12">
+                <div class="post-image mb-3">
+                    <img
+                            alt="Zdjęcie przedstawiające {{ page.meta-title }}"
+                            src="/img/blog/1140/{{ page.image }}"
+                            style="object-position: {{ page.hero-position }};"
+                    />
+                </div>
+                <div class="post-title mb-3">
+                    <h1 class="text-primary">{{ page.meta-title }}</h1>
+                </div>
+                <div class="post-content text-justify">
+                    {{ content }}
+                </div>
+                <div class="mt-4 small post-footer text-right text-muted">
+                    Grażyna Walasek, {{ page.date | date: "%Y-%m-%d" }}
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
@@ -22,7 +39,6 @@
 <script>
     window.addEventListener("DOMContentLoaded", function () {
         $('nav a').filter(function () {
-            console.log(this);
             return this.href.includes('blog');
         }).addClass('active');
     });

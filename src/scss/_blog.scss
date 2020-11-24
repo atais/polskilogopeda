@@ -1,0 +1,28 @@
+#blog {
+
+  a {
+    color: $body-color;
+
+    &:active, &:hover, &:focus {
+      text-decoration: none;
+
+      .icon {
+        color: $primary;
+      }
+    }
+
+    h2 {
+      color: $primary;
+      margin-bottom: 0;
+    }
+  }
+}
+
+.post-image {
+  img {
+    width: 100%;
+    height: 20hw;
+    max-height: 450px;
+    object-fit: cover;
+  }
+}
