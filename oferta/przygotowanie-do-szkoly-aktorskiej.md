@@ -22,12 +22,12 @@ w zakresie:
 ## Rozumienie tekstów z poezji i prozy
 
 Wieloletnie doświadczenie w pracy aktora pozwala również zaoferować pomoc nad 
-interpretacją i&nbsp;rozumieniem tekstów z poezji i prozy z literatury polskiej i&nbsp;obcej, 
+interpretacją i rozumieniem tekstów z poezji i prozy z literatury polskiej i obcej, 
 które każdy uczestnik egzaminów wstępnych do szkoły artystycznej jest obowiązany przygotować.
  
 Są to zazwyczaj wiersze z epoki renesansu, 
 romantyzmu, 20-lecia międzywojennego i te powstałe po 1945 roku, z literatury polskiej i światowej. 
-Trzeba również móc zaprezentować fragmenty prozy z&nbsp;klasyki polskiej i światowej oraz współczesnej 
+Trzeba również móc zaprezentować fragmenty prozy z klasyki polskiej i światowej oraz współczesnej 
 prozy polskiej i światowej. Pozycją obowiązkową są też monologi ze sztuk klasycznych dramaturgów 
 polskich i światowych. 
 

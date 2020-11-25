@@ -30,7 +30,7 @@ meta-desc: Na blogu PolskiLogopeda.pl znajdziecie dodatkowe informacje o naszej 
                     {{ post.date | date: "%Y-%m-%d" }}
                 </small>
                 <p>
-                    {{ post.excerpt | truncate: 256 }}
+                    {{ post.excerpt | Nbsp | truncate: 256 }}
                 </p>
                 <div class="mr-4 mb-2 read-more text-muted text-left">
                     <small>
