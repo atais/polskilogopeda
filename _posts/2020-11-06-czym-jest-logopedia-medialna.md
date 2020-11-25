@@ -10,7 +10,7 @@ Codziennie spotykamy na swojej drodze ludzi. Wymieniamy między sobą komunikaty
 
 Tym właśnie zajmuje się logopedia medialna - jakością naszej wypowiedzi. Składa się na to perfekcyjna dykcja bez artykulacyjnych wad, odpowiednie tempo mówienia, gospodarka oddechem, akcent, intonacja i ruch ciała, które współgra z naszą wypowiedzią. Wszystko to powinno stanowić harmonijną całość.
 
-Logopedia medialna wykorzystuje wiedzę wielu nauk z zakresu kultury żywego słowa: fonetyki, emisji głosu, retoryki. Poszerzanie kompetencji językowych wpisuje się w coraz szerszy krąg współczesnych zawodów. Teraz to już nie tylko aktor, spiker,czy dziennikarz, ale także ksiądz, prawnik, pracownik naukowy, nauczyciel, ktoś kto chce prowadzić własny kanał na YouTube, menedżer, prezenter,telemarketer i każdy kto chce być słuchany z uwagą i zainteresowaniem, bez kompleksów i wstydu. Liczebność audytorium nie ma znaczenia. 
+Logopedia medialna wykorzystuje wiedzę wielu nauk z zakresu kultury żywego słowa: fonetyki, emisji głosu, retoryki. Poszerzanie kompetencji językowych wpisuje się w coraz szerszy krąg współczesnych zawodów. Teraz to już nie tylko aktor, spiker,czy dziennikarz, ale także ksiądz, prawnik, pracownik naukowy, nauczyciel, ktoś kto chce prowadzić własny kanał na YouTube, menedżer, prezenter, telemarketer i każdy kto chce być słuchany z uwagą i zainteresowaniem, bez kompleksów i wstydu. Liczebność audytorium nie ma znaczenia. 
 
 Istotne jest swobodne, bezstresowe posługiwanie się poprawną polszczyzną przy pomocy pięknie brzmiącego głosu. Zapraszamy na zajęcia z logopedii medialnej w ramach naszej poradni, szczegóły pod adresem:
 [polskilogopeda.pl/oferta/logopedia-medialna](/oferta/logopedia-medialna)
