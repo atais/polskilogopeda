@@ -42,6 +42,6 @@ meta-desc: Na blogu PolskiLogopeda.pl znajdziecie dodatkowe informacje o naszej 
 
         </div>
     </a>
-    <hr/>
+    {% unless forloop.last %}<hr/>{% endunless %}
     {% endfor %}
 </div>
