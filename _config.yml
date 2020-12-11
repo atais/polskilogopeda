@@ -15,7 +15,8 @@ exclude: [
     .idea,
     src,
     Gemfile*,
-    webpack*
+    webpack*,
+    img/blog/conv.sh
 ]
 
 keep_files: [
