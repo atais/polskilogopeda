@@ -18,14 +18,17 @@
   }
 }
 
-.post-content {
-  text-indent: 1.5em;
-}
+#post {
+  .post-content p {
+    text-indent: 1.5em;
+  }
 
-.post-image {
-  img {
-    width: 100%;
-    max-height: 450px;
-    object-fit: cover;
+  .post-image {
+    img {
+      width: 100%;
+      max-height: 450px;
+      object-fit: cover;
+    }
   }
 }
+
