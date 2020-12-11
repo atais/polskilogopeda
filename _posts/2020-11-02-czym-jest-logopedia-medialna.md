@@ -6,7 +6,7 @@ meta-title: Logopedia medialna
 meta-desc: Czy codzienna komunikacja to logopedia medialna? Kiedy ją wykorzystujemy? Czemu potrzebujemy jej w swoim życiu?
 ---
 
-Codziennie spotykamy na swojej drodze ludzi. Wymieniamy między sobą komunikaty, werbalne i te niewerbalne. Rozmawiamy o rzeczach ważnych, mniej ważnych i takich kompletnie nieistotnych. W zasadzie każda rozmowa, nawet ta między dwoma osobami, to mini wystąpienie publiczne. Temat może być ważny lub nie, publiczność liczna lub nie, ale to wyrażona opinia. Głośno i w obecności innych osób. Czasem jesteśmy słuchani z uwagą i zainteresowaniem, a innym razem ktoś rzuca wymijające zdanie, obraca się na pięcie i pośpiesznie odchodzi. Oczywiście to czy jesteśmy odbierani pozytywnie, czy nie, to składowa kilku czynników. Nie tylko tego co, ale i jak mówimy.
+Codziennie spotykamy na swojej drodze ludzi. Wymieniamy między sobą komunikaty, werbalne i te niewerbalne. Rozmawiamy o rzeczach ważnych, mniej ważnych i takich kompletnie nieistotnych. W zasadzie każda rozmowa, nawet ta między dwoma osobami, to mini wystąpienie publiczne. Temat może być ważny lub nie, publiczność liczna lub nie, ale to wyrażona opinia. Głośno i w obecności innych osób. Czasem jesteśmy słuchani z uwagą i zainteresowaniem, a innym razem ktoś rzuca wymijające zdanie, obraca się na pięcie i pośpiesznie odchodzi. Oczywiście to, czy jesteśmy odbierani pozytywnie, czy nie, to składowa kilku czynników. Nie tylko tego co, ale i jak mówimy.
 
 Tym właśnie zajmuje się logopedia medialna - jakością naszej wypowiedzi. Składa się na to perfekcyjna dykcja bez artykulacyjnych wad, odpowiednie tempo mówienia, gospodarka oddechem, akcent, intonacja i ruch ciała, które współgra z naszą wypowiedzią. Wszystko to powinno stanowić harmonijną całość.
 
