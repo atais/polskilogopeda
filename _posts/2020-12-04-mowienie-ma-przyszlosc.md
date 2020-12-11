@@ -6,7 +6,7 @@ meta-title: Mówienie ma przyszłość
 meta-desc: Co to jest mowa? A wymowa?
 ---
 
-Mowa ma ogromny wpływ na całokształt rozwoju człowieka. To dzięki niej jesteśmy w stanie nawiązywać kontakt z innymi ludźmi, formułować komunikaty, precyzować swoje potrzeby, czy zdobywać informacje. Jest składową myślenia, mówienia i rozumienia.
+Mowa ma ogromny wpływ na całokształt rozwoju człowieka. To dzięki niej jesteśmy w stanie nawiązać kontakt z innymi ludźmi, formułować komunikaty, precyzować swoje potrzeby, czy zdobywać informacje. Jest składową myślenia, mówienia i rozumienia.
 
 Kiedy pojawia się myśl, którą chcemy się podzielić z innymi, musimy ją wymówić, by została zrozumiana. Nasz rozmówca słyszy, rozumie, myśli i odpowiada nam. I proces zaczyna się od początku: słyszymy, rozumiemy, myślimy, mówimy itd. Te elementy są ściśle ze sobą związane. Jeśli któryś z nich zostanie zaburzony lub zniekształcony, komunikat stanie się niezrozumiały lub wręcz bezużyteczny. Mowa jest sposobem porozumiewania się.
 
