@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+{% include nav.html nav-name='subNav' %}
+
+<div class="page-section subpage-section subpage-margin bg-light" id="post">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="post-image mb-3">
+                    <img
+                            alt="Zdjęcie przedstawiające {{ page.meta-title }}"
+                            src="/img/blog/{{ page.image }}/1140.png"
+                            style="object-position: {{ page.hero-position }};"
+                    />
+                </div>
+                <div class="post-title mb-3">
+                    <h1 class="text-primary">{{ page.meta-title }}</h1>
+                </div>
+                <div class="post-content text-justify">
+                    {{ content | nbsp }}
+                </div>
+                <div class="mt-4 small post-footer text-right text-muted">
+                    Grażyna Walasek, {{ page.date | date: "%Y-%m-%d" }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% include contact.html background="" %}
+
+{% include map.html %}
+
+{% include footer.html %}
+<script>
+    window.addEventListener("DOMContentLoaded", function () {
+        $('nav a').filter(function () {
+            return this.href.includes('blog');
+        }).addClass('active');
+    });
+</script>
+</body>
+</html>

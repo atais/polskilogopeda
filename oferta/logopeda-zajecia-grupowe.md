@@ -4,7 +4,7 @@ hero: shutterstock_1613073370.jpg
 hero-position: 100% 10%
 title: Logopeda zajęcia grupowe
 meta-title: Logopeda zajęcia grupowe | PolskiLogopeda.pl
-meta-desc: Proponujemy grupowe zajęcia logopedyczne. Indywidualnie przygotowujemy program zależnie od wymagań grupy i możliwości realizacji. Zapraszamy do kontaktu!   
+meta-desc: Proponujemy grupowe zajęcia logopedyczne. Indywidualnie przygotowujemy program zależnie od wymagań grupy i możliwości realizacji. Zapraszamy do kontaktu! 
 ---
 
 Oprócz terapii indywidualnych oferujemy również możliwość poprowadzenia 

@@ -40,7 +40,7 @@ Na zajęciach wykorzystujemy:
  - utwory klasyków polskiej literatury jak Mickiewicz
  - poezję i prozę współczesnych mistrzów - Herberta, Gombrowicza itd
  
-To przez czytanie uczymy się poprawnego formułowania zdań, nowych słów i  rozbudzamy wyobraźnię. 
+To przez czytanie uczymy się poprawnego formułowania zdań, nowych słów i rozbudzamy wyobraźnię. 
 Tak też utrzymujemy kontakt z kulturą.
-Dodając do tego trochę gramatyki, ortografii, fonetyki i&nbsp;ćwiczeń artykulacyjnych - mamy gotowe spotkanie z literaturą 
+Dodając do tego trochę gramatyki, ortografii, fonetyki i ćwiczeń artykulacyjnych - mamy gotowe spotkanie z literaturą 
 i językiem polskim.

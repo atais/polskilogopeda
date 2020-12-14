@@ -4,7 +4,7 @@ hero: shutterstock_1241157361.jpg
 hero-position: 100% 10%
 title: Logopeda dla dzieci
 meta-title: Logopeda dla dzieci | PolskiLogopeda.pl
-meta-desc: "Oferujemy zajęcia logopedyczne dla dzieci, dopasowując program ćwiczeń do wieku. Pomagamy osiągnąć prawidłową artykulację głosek, których wymowa sprawia dziecku trudność np: r, sz, s. Prowadzimy ćwiczenia stymulujące rozwój mowy."  
+meta-desc: "Oferujemy zajęcia logopedyczne dla dzieci, dopasowując program ćwiczeń do wieku. Pomagamy osiągnąć prawidłową artykulację głosek, których wymowa sprawia dziecku trudność np: r, sz, s. Prowadzimy ćwiczenia stymulujące rozwój mowy."
 ---
 
 Przeprowadzamy diagnozę logopedyczną, w efekcie której możliwe jest ustalenie poziomu rozwoju mowy dziecka. 
@@ -16,7 +16,7 @@ Badanie obejmuje takie umiejętności jak:
 
 
 Na konsultację logopedyczną z dzieckiem warto wybrać się zawsze, jeśli tylko coś budzi Państwa wątpliwości 
-w rozwoju mowy lub budowie aparatu. Przecież rozwój mowy jest  procesem skomplikowanym, 
+w rozwoju mowy lub budowie aparatu. Przecież rozwój mowy jest procesem skomplikowanym, 
 długotrwałym i może przebiegać w różnym tempie u dzieci. Zastępowanie głosek trudnych 
 łatwiejszymi w pewnym wieku nie jest wadą wymowy, ale etapem jej rozwoju. 
 
@@ -26,7 +26,7 @@ mając lat 5 nie wymawia głosek |sz| |ż| |cz| |dż| i mając lat 6 nie wymawia
 
 Stymulacja rozwoju prawidłowej artykulacji jest niezbędna. Staramy się dostosować terapię do 
 wieku i możliwości percepcyjnych małych klientów. Może więc ona zawierać elementy zabawy 
-w&nbsp;przypadku młodszych dzieci. Ważne jest wzbudzenie zainteresowania dziecka prowadzonymi zajęciami i 
+w przypadku młodszych dzieci. Ważne jest wzbudzenie zainteresowania dziecka prowadzonymi zajęciami i 
 zadowolenia z osiąganych wyników. W naszej terapii mogą więc wystąpić takie elementy jak:
  
 - ćwiczenia języka 

@@ -47,4 +47,4 @@ Specjalizujemy się w takich wyzwaniach jak:
 Terapia logopedyczna dobierana jest indywidualnie, zależnie od wieku, potrzeb i umiejętności 
 osoby bezpośrednio zainteresowanej. Ćwiczenia są wykonywane w gabinecie pod nadzorem logopedy, 
 ale klienci dostają też materiały do ćwiczeń w domu. Regularna praca nad aparatem mowy daje najlepsze 
-rezultaty. W efekcie ugruntujecie Państwo wiarę w  siebie i przezwyciężycie trudności.
+rezultaty. W efekcie ugruntujecie Państwo wiarę w siebie i przezwyciężycie trudności.

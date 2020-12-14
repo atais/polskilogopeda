@@ -8,7 +8,7 @@ meta-desc: Oferujemy stacjonarne usługi logopedyczne w naszym gabinecie w Łodz
 ---
 
 Podstawową formą prowadzonej terapii logopedycznej są zajęcia w gabinecie. Schemat może być bardzo różny, 
-zależnie od potrzeb, możliwości i wieku  klienta. Może wyglądać dla przykładu tak:
+zależnie od potrzeb, możliwości i wieku klienta. Może wyglądać dla przykładu tak:
 
 - Ćwiczenia oddechowe
 - Ćwiczenia usprawniające aparat mowy
@@ -16,4 +16,4 @@ zależnie od potrzeb, możliwości i wieku  klienta. Może wyglądać dla przyk�
 
 Staramy się wykorzystywać różnorodne pomoce jak kolorowanki, puzzle, krzyżówki itp. 
 Mają one nie tylko uatrakcyjnić i urozmaicić ćwiczenia, ale także utrzymać klienta w ciągłej aktywności, 
-co z&nbsp;kolei ma znaczący wpływ na efektywność prowadzonej terapii. Udostępniamy również materiały do pracy w domu.
+co z kolei ma znaczący wpływ na efektywność prowadzonej terapii. Udostępniamy również materiały do pracy w domu.

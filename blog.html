@@ -1,0 +1,47 @@
+---
+layout: info
+meta-title: Blog PolskiLogopeda.pl
+meta-desc: Na blogu PolskiLogopeda.pl znajdziecie dodatkowe informacje o naszej działalności logopedycznej oraz porady i ciekawe zagadnienia dotyczące logopedii oraz logopedii medialnej.
+---
+
+<div class="container-fluid">
+    <div class="row text-center">
+        <div class="col-sm-12 mb-4">
+            <h1>{{ page.meta-title }}</h1>
+        </div>
+    </div>
+
+    {% for post in site.posts %}
+    <a href="{{ post.url | replace: '.html', '' }}">
+
+        <div class="row post-entry my-3">
+            <div class="col-lg-3 col-md-4 post-image {% cycle 'order-lg-1', 'order-lg-2' %} text-center">
+                <img
+                        alt="Miniaturka przedstawiająca {{ page.meta-title }}"
+                        src="/img/blog/{{ post.image }}/480.png"
+                        class="img-fluid"
+                />
+            </div>
+            <div class="col-lg-9 col-md-8 post-content {% cycle 'order-lg-2', 'order-lg-1' %} text-justify">
+                <h2>
+                    {{ post.meta-title }}
+                </h2>
+                <small>
+                    {{ post.date | date: "%Y-%m-%d" }}
+                </small>
+                <p>
+                    {{ post.excerpt | Nbsp | truncate: 256 }}
+                </p>
+                <div class="mr-4 mb-2 read-more text-muted text-left">
+                    <small>
+                        <i class="fas fa-external-link-alt icon"></i>
+                        <span>Czytaj więcej...</span>
+                    </small>
+                </div>
+            </div>
+
+        </div>
+    </a>
+    {% unless forloop.last %}<hr/>{% endunless %}
+    {% endfor %}
+</div>
