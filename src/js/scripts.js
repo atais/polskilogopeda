@@ -56,7 +56,7 @@
                     marker.addListener("click", function () {
                         infowindow.open(map, marker);
                     });
-                    // infowindow.open(map, marker);
+                    infowindow.open({anchor: marker, shouldFocus: false});
                 });
         });
 
