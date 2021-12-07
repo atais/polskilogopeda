@@ -30,6 +30,12 @@
    npm start
    ```
 
+7. Enter website
+
+   ```
+   localhost:4000
+   ```
+
 # Deploy
 
 1. Deploy the solution with webpack
