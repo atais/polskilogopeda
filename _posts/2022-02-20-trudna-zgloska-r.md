@@ -12,10 +12,13 @@ Ten długi czas dla niektórych i tak okazuje się niewystarczający i "r" jest 
 To zjawisko nazywane jest rotacyzmem, albo inaczej reraniem.
 W zależności od tego, co dzieje się z tą głoską możemy mówić o:
 
-- mogirotacyzmie - to pomijanie głoski, słyszymy "yba” zamiast ryba, "ak" zamiast rak
-- pararotacyzmie - to zastępowanie jej poprzez l,ł,j, "jowej" zamiast rower
-- kłowa zamiast krowa
-- lula zamiast rura
+- mogirotacyzmie - to pomijanie głoski, słyszymy:
+    - "yba” zamiast ryba  
+    - "ak" zamiast rak
+- pararotacyzmie - to zastępowanie jej poprzez l,ł,j, przykłady: 
+    - "jowej" zamiast rower
+    - "kłowa" zamiast krowa
+    - "lula" zamiast rura
 - rotacyzmie właściwym - to nieprawidłowa wymowa spowodowana zmianą
 miejsca artykulacji
 
@@ -33,7 +36,7 @@ Przyczyny rotacyzmu mogą być bardzo różne. Do najczęściej spotykanych nale
 - wady zgryzu
 - za krótkie wędzidełko
 - nieprawidłowe wzorce wymowy
-- brak słuchowej umiejętności rozróżniania głosek, zabużony 
+- brak słuchowej umiejętności rozróżniania głosek, zaburzony 
   [słuch fonematyczny i fonetyczny](/2021/07/08/czym-jest-sluch-fonematyczny)
 
 Kluczowa staje się umiejętność słyszenia nieprawidłowej realizacji głoski, a potem diagnoza i terapia w gabinecie logopedycznym. Zapraszamy, jeśli reranie czyli rotacyzm stanowi problem.
