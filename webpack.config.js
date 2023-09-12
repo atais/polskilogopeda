@@ -51,7 +51,7 @@ module.exports = function make() {
             {
                 test: /\.s?css$/,
                 use: [
-                    { loader: MiniCssExtractPlugin.loader, options: { sourceMap: isDev }},
+                    { loader: MiniCssExtractPlugin.loader },
                     { loader: "css-loader", options: { sourceMap: isDev }},
                     { loader: "sass-loader", options: { sourceMap: isDev }}
                 ]

@@ -12,29 +12,29 @@
     "deploy": "npm run build && git-directory-deploy --directory _site --branch gh-pages"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "1.2.32",
-    "@fortawesome/free-brands-svg-icons": "5.15.1",
-    "@fortawesome/free-regular-svg-icons": "5.15.1",
-    "@fortawesome/free-solid-svg-icons": "5.15.1",
+    "@fortawesome/fontawesome-svg-core": "6.4.2",
+    "@fortawesome/free-brands-svg-icons": "6.4.2",
+    "@fortawesome/free-regular-svg-icons": "6.4.2",
+    "@fortawesome/free-solid-svg-icons": "6.4.2",
     "@openfonts/rubik_all": "1.44.1",
-    "bootstrap": "4.5.3",
+    "@popperjs/core": "2.11.8",
+    "bootstrap": "4.6.2",
     "gmap3": "7.2.0",
-    "jquery": "3.5.1",
+    "jquery": "3.7.1",
     "jquery.easing": "1.4.1",
-    "magnific-popup": "1.1.0",
-    "popper.js": "1.16.1"
+    "magnific-popup": "1.1.0"
   },
   "devDependencies": {
-    "concurrently": "5.3.0",
-    "css-loader": "3.5.3",
+    "concurrently": "8.2.1",
+    "css-loader": "6.8.1",
     "file-loader": "6.2.0",
     "git-directory-deploy": "1.5.1",
-    "mini-css-extract-plugin": "1.2.1",
-    "rimraf": "3.0.2",
-    "sass": "1.28.0",
-    "sass-loader": "10.0.4",
+    "mini-css-extract-plugin": "2.7.6",
+    "rimraf": "5.0.1",
+    "sass": "1.66.1",
+    "sass-loader": "13.3.2",
     "url-loader": "4.1.1",
-    "webpack": "4.44.2",
-    "webpack-cli": "3.3.12"
+    "webpack": "5.88.2",
+    "webpack-cli": "5.1.4"
   }
 }
