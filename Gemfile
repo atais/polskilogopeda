@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.1"
+gem "jekyll"
 gem 'eventmachine'
 gem "webrick" # m1
