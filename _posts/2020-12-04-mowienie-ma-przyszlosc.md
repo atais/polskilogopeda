@@ -15,7 +15,7 @@ A wymowa? Jest jednym z elementów tejże. Wymowa to jakość naszego mówienia 
 Jednak nikt z nas nie jest idealny, a jeśli ludzie osiągają sukcesy, to niewątpliwie dzięki swojej nieustannej pracy nad sobą. Niezależnie od wieku dbajmy o stymulację naszej mowy poszerzając nasze słownictwo i kompetencje, ale zadbajmy też o jakość naszej wymowy, będącej doskonałym sposobem na zademonstrowanie naszej samoświadomości i kontroli. Dotyczy to dzieci i dorosłych, każdego na odpowiednim poziomie rozwoju, bo uczymy się przez całe życie.
 
 Zapraszamy do naszego gabinetu logopedycznego na zajęcia poprawnej wymowy w gabinecie:
-[polskilogopeda.pl/zajecia/logopeda-lodz](/zajecia/logopeda-lodz) <br>
+[polskilogopeda.pl/zajecia/logopeda-warszawa](/zajecia/logopeda-warszawa) <br>
 lub w formie spotkania online:
 [polskilogopeda.pl/zajecia/logopeda-online](/zajecia/logopeda-online)
 

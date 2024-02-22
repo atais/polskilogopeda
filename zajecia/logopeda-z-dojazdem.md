@@ -3,7 +3,7 @@ layout: subpage
 hero: shutterstock_125020304.jpg
 hero-position: 100% 30%
 title: Logopeda z dojazdem
-meta-title: Logopeda z dojazdem Łódź | PolskiLogopeda.pl
+meta-title: Logopeda z dojazdem Warszawa | PolskiLogopeda.pl
 meta-desc: Oferujemy możliwość dojazdu i prowadzenie terapii w wybranym przez Was miejscu. Zajęcia przygotowane są z tą samą starannością co te, prowadzone w gabinecie. Zapraszamy!
 ---
 

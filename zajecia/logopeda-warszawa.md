@@ -2,8 +2,8 @@
 layout: subpage
 hero: shutterstock_1617508468.jpg
 hero-position: 100% 40%
-title: Logopeda Łódź - Gabinet
-meta-title: Logopeda Łódź - Gabinet | PolskiLogopeda.pl
+title: Logopeda Warszawa - Gabinet
+meta-title: Logopeda Warszawa - Gabinet | PolskiLogopeda.pl
 meta-desc: Oferujemy stacjonarne usługi logopedyczne w naszym gabinecie w Łodzi. Dogodna lokalizacja w centrum miasta pozwoli na dopasowanie terminu zajęć do swojego planu dnia. Zapraszamy!
 ---
 

@@ -38,7 +38,7 @@ Terapia logopedyczna osób dorosłych to:
 Na poprawę swojej wymowy w naszym gabinecie logopedycznym mogą liczyć również obcokrajowcy.
 Czasem mimo, że prawie płynnie posługują się językiem polskim, natrafiają na problemy z artykulacją niektórych polskich
 głosek.
-Zapraszamy dorosłych i dzieci, Polaków i obcokrajowców na naukę [poprawnej wymowy w gabinecie](/zajecia/logopeda-lodz)
+Zapraszamy dorosłych i dzieci, Polaków i obcokrajowców na naukę [poprawnej wymowy w gabinecie](/zajecia/logopeda-warszawa)
 lub w formie [spotkań online](/zajecia/logopeda-online).
 
 <p class="text-right small m-0">

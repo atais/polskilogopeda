@@ -1,6 +1,6 @@
 # Keywords
 
-logopeda łódź
+logopeda warszawa
 logopeda online
 logopeda dla dorosłych
 logopeda dla dzieci

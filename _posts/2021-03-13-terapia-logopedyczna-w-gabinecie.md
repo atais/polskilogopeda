@@ -25,4 +25,4 @@ Wszystkie materiały i ćwiczenia wykorzystywane w trakcie zajęć, są udostęp
 Musimy też pamiętać, że każda terapia logopedyczna wymaga indywidualnego podejścia oraz dostosowania planu do potrzeb i możliwości pacjenta. Każda osoba zainteresowana poprawą swojej wymowy, powinna zrobić ten pierwszy krok - zgłosić się na profesjonalną diagnozę i wraz z logopedą ustalić sposób postępowania.
 
 Jeżeli jesteś zainteresowany konsultacją logopedyczną, szczegóły oraz cennik znajdziesz na stronie:
-[polskilogopeda.pl/zajecia/logopeda-lodz](/zajecia/logopeda-lodz)
+[polskilogopeda.pl/zajecia/logopeda-warszawa](/zajecia/logopeda-warszawa)
