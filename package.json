@@ -18,7 +18,7 @@
     "@fortawesome/free-solid-svg-icons": "6.4.2",
     "@openfonts/rubik_all": "1.44.1",
     "@popperjs/core": "2.11.8",
-    "bootstrap": "4.6.2",
+    "bootstrap": "5.0.0",
     "gmap3": "7.2.0",
     "jquery": "3.7.1",
     "jquery.easing": "1.4.1",
