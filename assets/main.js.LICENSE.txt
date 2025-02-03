@@ -15,9 +15,9 @@
  * Date: 2023-08-28T13:37Z
  */
 
-/*! Magnific Popup - v1.1.0 - 2016-02-20
+/*! Magnific Popup - v1.2.0 - 2024-06-08
 * http://dimsemenov.com/plugins/magnific-popup/
-* Copyright (c) 2016 Dmitry Semenov; */
+* Copyright (c) 2024 Dmytro Semenov; */
 
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
