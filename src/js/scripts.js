@@ -1,4 +1,4 @@
-(function ($, google) {
+(function ($) {
     "use strict"; // Start of use strict
     $(document).ready(function () {
         // Smooth scrolling using jQuery easing
@@ -36,28 +36,49 @@
         $("#google-map").each(function () {
             var img = $(this).attr("data-address-details");
             var address = $(this).attr("data-address");
+            var mapElement = this;
 
-            $(this).gmap3({
-                address: address,
-                zoom: 15,
-                scrollwheel: false,
-                mapTypeId: google.maps.MapTypeId.ROADMAP,
-            })
-                .marker({
-                    address: address,
-                    draggable: false,
-                })
-                .infowindow({
-                    content: "<div class='navbar-brand maps'><img src=" + img + ' class="mr-2 d-inline-block align-top" />Polski Logopeda</div>',
-                })
-                .then(function (infowindow) {
-                    var map = this.get(0);
-                    var marker = this.get(1);
-                    marker.addListener("click", function () {
-                        infowindow.open(map, marker);
+            // Geocode the address
+            var geocoder = new google.maps.Geocoder();
+            geocoder.geocode({address: address}, function (results, status) {
+                if (status === google.maps.GeocoderStatus.OK) {
+                    var location = results[0].geometry.location;
+
+                    // Create map
+                    var map = new google.maps.Map(mapElement, {
+                        zoom: 15,
+                        center: location,
+                        scrollwheel: false,
+                        mapTypeId: google.maps.MapTypeId.ROADMAP
                     });
-                    infowindow.open({anchor: marker, shouldFocus: false});
-                });
+
+                    // Create marker
+                    var marker = new google.maps.Marker({
+                        map: map,
+                        position: location,
+                        draggable: false
+                    });
+
+                    // Create info window content
+                    var contentDiv = document.createElement('div');
+                    contentDiv.innerHTML = "<div class='navbar-brand maps'><img src='" + img + "' class='mr-2 d-inline-block align-top' />Polski Logopeda</div>";
+
+                    // Create info window
+                    var infoWindow = new google.maps.InfoWindow({
+                        headerContent: contentDiv
+                    });
+
+                    // Open info window on marker click
+                    marker.addListener("click", function () {
+                        infoWindow.open(map, marker);
+                    });
+
+                    // Open info window by default
+                    infoWindow.open(map, marker);
+                } else {
+                    console.error("Geocoding error: " + status);
+                }
+            });
         });
 
 
@@ -83,5 +104,5 @@
             });
         });
     });
-})($, google);
+})($);
 // End of use strict
