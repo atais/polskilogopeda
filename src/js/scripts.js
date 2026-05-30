@@ -1,60 +1,62 @@
+import { Loader } from '@googlemaps/js-api-loader';
+
+const mapsLoader = new Loader({
+    apiKey: "AIzaSyAMJAcHJ5guuewluHOFjymc6DGuIPiDF1I",
+    version: "weekly",
+});
+
 (function ($) {
     "use strict"; // Start of use strict
 
-    // Function to initialize map when Google Maps API is ready
-    window.initMaps = function() {
-        initializeMap();
-    };
-
+    /* Google map
+    ----------------------------------------------*/
     function initializeMap() {
-        /* Google map
-        ----------------------------------------------*/
-        $("#google-map").each(function () {
-            var img = $(this).attr("data-address-details");
-            var address = $(this).attr("data-address");
-            var mapElement = this;
+        var $el = $("#google-map");
+        if (!$el.length) return;
 
-            // Geocode the address
-            var geocoder = new google.maps.Geocoder();
-            geocoder.geocode({address: address}, function (results, status) {
-                if (status === google.maps.GeocoderStatus.OK) {
+        var img        = $el.attr("data-address-details");
+        var address    = $el.attr("data-address");
+        var mapElement = $el[0];
+
+        Promise.all([
+            mapsLoader.importLibrary("maps"),
+            mapsLoader.importLibrary("geocoding"),
+            mapsLoader.importLibrary("marker"),
+        ]).then(function ([ mapsLib, geocodingLib, markerLib ]) {
+            var geocoder = new geocodingLib.Geocoder();
+            geocoder.geocode({ address: address }, function (results, status) {
+                if (status === "OK") {
                     var location = results[0].geometry.location;
 
-                    // Create map
-                    var map = new google.maps.Map(mapElement, {
+                    var map = new mapsLib.Map(mapElement, {
                         zoom: 15,
                         center: location,
                         scrollwheel: false,
-                        mapTypeId: google.maps.MapTypeId.ROADMAP
+                        mapTypeId: "roadmap",
+                        mapId: "polski_logopeda_map",
                     });
 
-                    // Create marker
-                    var marker = new google.maps.Marker({
+                    var marker = new markerLib.AdvancedMarkerElement({
                         map: map,
                         position: location,
-                        draggable: false
                     });
 
-                    // Create info window content
                     var contentDiv = document.createElement('div');
                     contentDiv.innerHTML = "<div class='navbar-brand maps'><img src='" + img + "' class='mr-2 d-inline-block align-top' />Polski Logopeda</div>";
 
-                    // Create info window
-                    var infoWindow = new google.maps.InfoWindow({
-                        headerContent: contentDiv
-                    });
+                    var infoWindow = new mapsLib.InfoWindow({ headerContent: contentDiv });
 
-                    // Open info window on marker click
-                    marker.addListener("click", function () {
+                    marker.addEventListener("gmp-click", function () {
                         infoWindow.open(map, marker);
                     });
 
-                    // Open info window by default
                     infoWindow.open(map, marker);
                 } else {
                     console.error("Geocoding error: " + status);
                 }
             });
+        }).catch(function (e) {
+            console.error("Google Maps failed to load", e);
         });
     }
 
@@ -89,8 +91,7 @@
             $(window).scroll(navbarCollapse);
         }
 
-        // Initialize map when DOM is ready (if API not loaded yet)
-        if (window.google && window.google.maps) {
+        if ($("#google-map").length) {
             initializeMap();
         }
 
