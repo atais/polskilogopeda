@@ -4,7 +4,6 @@ import $ from 'jquery';
 
 window.jQuery = $;
 window.$ = $;
-require('gmap3');
 
 import 'popper.js';
 import 'bootstrap';
