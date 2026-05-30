@@ -1,4 +1,4 @@
-@font-face{font-family:"Rubik";font-style:normal;font-display:swap;font-weight:300;src:local("Rubik Light"),local("Rubik-Light"),url(6c6e144212813ad7942c.woff2) format("woff2"),url(5c33755abf18c54f43f6.woff) format("woff")}@font-face{font-family:"Rubik";font-style:italic;font-display:swap;font-weight:300;src:local("Rubik Light Italic"),local("Rubik-LightItalic"),url(7ac82cf8beea8ef4e7ed.woff2) format("woff2"),url(5294c0dac80486b89d62.woff) format("woff")}@font-face{font-family:"Rubik";font-style:normal;font-display:swap;font-weight:400;src:local("Rubik"),local("Rubik-Regular"),url(439e437593deab639f99.woff2) format("woff2"),url(6e3510950ad50af64e0e.woff) format("woff")}@font-face{font-family:"Rubik";font-style:italic;font-display:swap;font-weight:400;src:local("Rubik Italic"),local("Rubik-Italic"),url(5dbd12e94eee6296be8e.woff2) format("woff2"),url(2f95f5b64ee87303d7d4.woff) format("woff")}@font-face{font-family:"Rubik";font-style:normal;font-display:swap;font-weight:500;src:local("Rubik Medium"),local("Rubik-Medium"),url(ee504f9a7e1c3393fb4f.woff2) format("woff2"),url(e6d8e90b7124332a4dda.woff) format("woff")}@font-face{font-family:"Rubik";font-style:italic;font-display:swap;font-weight:500;src:local("Rubik Medium Italic"),local("Rubik-MediumItalic"),url(9cb847577b58181236f5.woff2) format("woff2"),url(8ee82d12f5ea54923d91.woff) format("woff")}@font-face{font-family:"Rubik";font-style:normal;font-display:swap;font-weight:700;src:local("Rubik Bold"),local("Rubik-Bold"),url(8d9fc076112575037408.woff2) format("woff2"),url(af919aafeb55caf99867.woff) format("woff")}@font-face{font-family:"Rubik";font-style:italic;font-display:swap;font-weight:700;src:local("Rubik Bold Italic"),local("Rubik-BoldItalic"),url(5db4f208a61b3c9610a1.woff2) format("woff2"),url(2bb1a0d53ee3ccda7738.woff) format("woff")}@font-face{font-family:"Rubik";font-style:normal;font-display:swap;font-weight:900;src:local("Rubik Black"),local("Rubik-Black"),url(7d5afe921c61804077af.woff2) format("woff2"),url(666793c722c3c9af2b50.woff) format("woff")}@font-face{font-family:"Rubik";font-style:italic;font-display:swap;font-weight:900;src:local("Rubik Black Italic"),local("Rubik-BlackItalic"),url(404310697b35cc19640b.woff2) format("woff2"),url(38400c7979fdc49f53db.woff) format("woff")}
+@font-face{font-family:"Rubik";font-style:normal;font-display:swap;font-weight:300;src:local("Rubik Light"),local("Rubik-Light"),url(rubik-all-300.woff2) format("woff2"),url(rubik-all-300.woff) format("woff")}@font-face{font-family:"Rubik";font-style:italic;font-display:swap;font-weight:300;src:local("Rubik Light Italic"),local("Rubik-LightItalic"),url(rubik-all-300-italic.woff2) format("woff2"),url(rubik-all-300-italic.woff) format("woff")}@font-face{font-family:"Rubik";font-style:normal;font-display:swap;font-weight:400;src:local("Rubik"),local("Rubik-Regular"),url(rubik-all-400.woff2) format("woff2"),url(rubik-all-400.woff) format("woff")}@font-face{font-family:"Rubik";font-style:italic;font-display:swap;font-weight:400;src:local("Rubik Italic"),local("Rubik-Italic"),url(rubik-all-400-italic.woff2) format("woff2"),url(rubik-all-400-italic.woff) format("woff")}@font-face{font-family:"Rubik";font-style:normal;font-display:swap;font-weight:500;src:local("Rubik Medium"),local("Rubik-Medium"),url(rubik-all-500.woff2) format("woff2"),url(rubik-all-500.woff) format("woff")}@font-face{font-family:"Rubik";font-style:italic;font-display:swap;font-weight:500;src:local("Rubik Medium Italic"),local("Rubik-MediumItalic"),url(rubik-all-500-italic.woff2) format("woff2"),url(rubik-all-500-italic.woff) format("woff")}@font-face{font-family:"Rubik";font-style:normal;font-display:swap;font-weight:700;src:local("Rubik Bold"),local("Rubik-Bold"),url(rubik-all-700.woff2) format("woff2"),url(rubik-all-700.woff) format("woff")}@font-face{font-family:"Rubik";font-style:italic;font-display:swap;font-weight:700;src:local("Rubik Bold Italic"),local("Rubik-BoldItalic"),url(rubik-all-700-italic.woff2) format("woff2"),url(rubik-all-700-italic.woff) format("woff")}@font-face{font-family:"Rubik";font-style:normal;font-display:swap;font-weight:900;src:local("Rubik Black"),local("Rubik-Black"),url(rubik-all-900.woff2) format("woff2"),url(rubik-all-900.woff) format("woff")}@font-face{font-family:"Rubik";font-style:italic;font-display:swap;font-weight:900;src:local("Rubik Black Italic"),local("Rubik-BlackItalic"),url(rubik-all-900-italic.woff2) format("woff2"),url(rubik-all-900-italic.woff) format("woff")}
 /* rubik-300normal - all */
 @font-face {
   font-family: 'Rubik';
@@ -8,8 +8,8 @@
   src:
     local('Rubik Light'),
     local('Rubik-Light'), 
-    url(6c6e144212813ad7942c.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url(5c33755abf18c54f43f6.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url(rubik-all-300.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(rubik-all-300.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* rubik-300italic - all */
 @font-face {
@@ -20,8 +20,8 @@
   src:
     local('Rubik Light Italic'),
     local('Rubik-LightItalic'), 
-    url(7ac82cf8beea8ef4e7ed.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url(5294c0dac80486b89d62.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url(rubik-all-300-italic.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(rubik-all-300-italic.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* rubik-400normal - all */
 @font-face {
@@ -32,8 +32,8 @@
   src:
     local('Rubik'),
     local('Rubik-Regular'), 
-    url(439e437593deab639f99.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url(6e3510950ad50af64e0e.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url(rubik-all-400.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(rubik-all-400.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* rubik-400italic - all */
 @font-face {
@@ -44,8 +44,8 @@
   src:
     local('Rubik Italic'),
     local('Rubik-Italic'), 
-    url(5dbd12e94eee6296be8e.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url(2f95f5b64ee87303d7d4.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url(rubik-all-400-italic.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(rubik-all-400-italic.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* rubik-500normal - all */
 @font-face {
@@ -56,8 +56,8 @@
   src:
     local('Rubik Medium'),
     local('Rubik-Medium'), 
-    url(ee504f9a7e1c3393fb4f.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url(e6d8e90b7124332a4dda.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url(rubik-all-500.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(rubik-all-500.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* rubik-500italic - all */
 @font-face {
@@ -68,8 +68,8 @@
   src:
     local('Rubik Medium Italic'),
     local('Rubik-MediumItalic'), 
-    url(9cb847577b58181236f5.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url(8ee82d12f5ea54923d91.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url(rubik-all-500-italic.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(rubik-all-500-italic.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* rubik-700normal - all */
 @font-face {
@@ -80,8 +80,8 @@
   src:
     local('Rubik Bold'),
     local('Rubik-Bold'), 
-    url(8d9fc076112575037408.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url(af919aafeb55caf99867.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url(rubik-all-700.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(rubik-all-700.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* rubik-700italic - all */
 @font-face {
@@ -92,8 +92,8 @@
   src:
     local('Rubik Bold Italic'),
     local('Rubik-BoldItalic'), 
-    url(5db4f208a61b3c9610a1.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url(2bb1a0d53ee3ccda7738.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url(rubik-all-700-italic.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(rubik-all-700-italic.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* rubik-900normal - all */
 @font-face {
@@ -104,8 +104,8 @@
   src:
     local('Rubik Black'),
     local('Rubik-Black'), 
-    url(7d5afe921c61804077af.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url(666793c722c3c9af2b50.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url(rubik-all-900.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(rubik-all-900.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* rubik-900italic - all */
 @font-face {
@@ -116,8 +116,8 @@
   src:
     local('Rubik Black Italic'),
     local('Rubik-BlackItalic'), 
-    url(404310697b35cc19640b.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url(38400c7979fdc49f53db.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url(rubik-all-900-italic.woff2) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(rubik-all-900-italic.woff) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 /*!
