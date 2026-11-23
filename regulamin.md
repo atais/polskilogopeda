@@ -9,7 +9,7 @@ meta-desc: Regulamin usług logopedycznych świadczonych przez PolskiLogopeda.pl
 ## §1 Funkcjonowanie gabinetu
 1. Gabinet prowadzi zajęcia terapeutyczne dla dzieci, młodzieży i dorosłych; od poniedziałku do soboty w godzinach 9:00 - 21:00.
 2. Zajęcia odbywają się :
-    - w gabinecie przy ul. Tramwajowej 21/10 w Łodzi
+    - w gabinecie przy ul. Wałbrzyskiej 48 m. 160 w Warszawie
     - w miejscu wskazanym przez Klienta
     - Online
 3. Zajęcia odbywają się po wcześniejszym uzgodnieniu z Klientem terminu i formy lub miejsca.
